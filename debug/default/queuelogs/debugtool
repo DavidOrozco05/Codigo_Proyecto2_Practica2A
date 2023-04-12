@@ -1,0 +1,1001 @@
+303 1678850127738 XXXX 1678850127738, Thread 303: XXXX 1678850127737, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850127841 XXXX 1678850127841, Thread 303: XXXX 1678850127841, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850127842 XXXX 1678850127842, Thread 303: XXXX 1678850127842, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850127945 XXXX 1678850127945, Thread 303: XXXX 1678850127945, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850127946 XXXX 1678850127946, Thread 303: XXXX 1678850127946, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850128047 XXXX 1678850128047, Thread 303: XXXX 1678850128047, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850128049 XXXX 1678850128049, Thread 303: XXXX 1678850128049, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850128148 XXXX 1678850128148, Thread 303: XXXX 1678850128148, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850128151 XXXX 1678850128151, Thread 303: XXXX 1678850128151, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850128249 XXXX 1678850128249, Thread 303: XXXX 1678850128249, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850128252 XXXX 1678850128252, Thread 303: XXXX 1678850128252, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850128349 XXXX 1678850128349, Thread 303: XXXX 1678850128349, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850128350 XXXX 1678850128350, Thread 303: XXXX 1678850128350, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850128450 XXXX 1678850128450, Thread 303: XXXX 1678850128450, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850128453 XXXX 1678850128453, Thread 303: XXXX 1678850128453, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850128551 XXXX 1678850128551, Thread 303: XXXX 1678850128551, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850128554 XXXX 1678850128554, Thread 303: XXXX 1678850128554, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850128652 XXXX 1678850128652, Thread 303: XXXX 1678850128652, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850128654 XXXX 1678850128654, Thread 303: XXXX 1678850128654, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850128753 XXXX 1678850128753, Thread 303: XXXX 1678850128753, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850128755 XXXX 1678850128755, Thread 303: XXXX 1678850128755, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850128852 XXXX 1678850128852, Thread 303: XXXX 1678850128852, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850128854 XXXX 1678850128854, Thread 303: XXXX 1678850128854, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850128952 XXXX 1678850128952, Thread 303: XXXX 1678850128952, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850128953 XXXX 1678850128953, Thread 303: XXXX 1678850128953, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850129053 XXXX 1678850129053, Thread 303: XXXX 1678850129053, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850129054 XXXX 1678850129054, Thread 303: XXXX 1678850129054, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850129156 XXXX 1678850129156, Thread 303: XXXX 1678850129156, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850129157 XXXX 1678850129157, Thread 303: XXXX 1678850129157, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850129255 XXXX 1678850129255, Thread 303: XXXX 1678850129255, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850129256 XXXX 1678850129256, Thread 303: XXXX 1678850129256, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850129356 XXXX 1678850129356, Thread 303: XXXX 1678850129356, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850129358 XXXX 1678850129358, Thread 303: XXXX 1678850129358, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850129457 XXXX 1678850129457, Thread 303: XXXX 1678850129457, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850129459 XXXX 1678850129459, Thread 303: XXXX 1678850129459, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850129562 XXXX 1678850129562, Thread 303: XXXX 1678850129562, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850129563 XXXX 1678850129563, Thread 303: XXXX 1678850129563, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850129662 XXXX 1678850129662, Thread 303: XXXX 1678850129662, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850129664 XXXX 1678850129664, Thread 303: XXXX 1678850129664, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850129765 XXXX 1678850129765, Thread 303: XXXX 1678850129765, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850129766 XXXX 1678850129766, Thread 303: XXXX 1678850129766, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850129864 XXXX 1678850129864, Thread 303: XXXX 1678850129864, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850129865 XXXX 1678850129865, Thread 303: XXXX 1678850129865, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850129966 XXXX 1678850129966, Thread 303: XXXX 1678850129966, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850129968 XXXX 1678850129968, Thread 303: XXXX 1678850129968, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850130067 XXXX 1678850130067, Thread 303: XXXX 1678850130067, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850130069 XXXX 1678850130069, Thread 303: XXXX 1678850130069, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850130168 XXXX 1678850130168, Thread 303: XXXX 1678850130168, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850130170 XXXX 1678850130170, Thread 303: XXXX 1678850130170, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850130268 XXXX 1678850130268, Thread 303: XXXX 1678850130268, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850130269 XXXX 1678850130269, Thread 303: XXXX 1678850130269, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850130368 XXXX 1678850130368, Thread 303: XXXX 1678850130368, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850130370 XXXX 1678850130370, Thread 303: XXXX 1678850130370, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850130469 XXXX 1678850130469, Thread 303: XXXX 1678850130469, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850130471 XXXX 1678850130471, Thread 303: XXXX 1678850130471, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850130570 XXXX 1678850130570, Thread 303: XXXX 1678850130570, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850130572 XXXX 1678850130572, Thread 303: XXXX 1678850130572, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850130671 XXXX 1678850130671, Thread 303: XXXX 1678850130671, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850130673 XXXX 1678850130673, Thread 303: XXXX 1678850130673, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850130772 XXXX 1678850130772, Thread 303: XXXX 1678850130772, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850130775 XXXX 1678850130775, Thread 303: XXXX 1678850130775, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850130874 XXXX 1678850130874, Thread 303: XXXX 1678850130874, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850130876 XXXX 1678850130876, Thread 303: XXXX 1678850130876, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850130976 XXXX 1678850130976, Thread 303: XXXX 1678850130976, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850130977 XXXX 1678850130977, Thread 303: XXXX 1678850130977, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850131075 XXXX 1678850131075, Thread 303: XXXX 1678850131075, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850131076 XXXX 1678850131076, Thread 303: XXXX 1678850131076, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850131176 XXXX 1678850131176, Thread 303: XXXX 1678850131176, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850131177 XXXX 1678850131177, Thread 303: XXXX 1678850131177, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850131276 XXXX 1678850131276, Thread 303: XXXX 1678850131276, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850131277 XXXX 1678850131277, Thread 303: XXXX 1678850131277, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850131378 XXXX 1678850131378, Thread 303: XXXX 1678850131378, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850131379 XXXX 1678850131379, Thread 303: XXXX 1678850131379, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850131479 XXXX 1678850131479, Thread 303: XXXX 1678850131479, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850131480 XXXX 1678850131480, Thread 303: XXXX 1678850131480, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850131579 XXXX 1678850131579, Thread 303: XXXX 1678850131579, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850131580 XXXX 1678850131580, Thread 303: XXXX 1678850131580, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850131679 XXXX 1678850131679, Thread 303: XXXX 1678850131679, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850131682 XXXX 1678850131682, Thread 303: XXXX 1678850131682, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850131780 XXXX 1678850131780, Thread 303: XXXX 1678850131780, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850131783 XXXX 1678850131783, Thread 303: XXXX 1678850131783, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850131881 XXXX 1678850131881, Thread 303: XXXX 1678850131881, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850131883 XXXX 1678850131883, Thread 303: XXXX 1678850131883, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850131983 XXXX 1678850131983, Thread 303: XXXX 1678850131983, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850131983 XXXX 1678850131983, Thread 303: XXXX 1678850131983, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850132085 XXXX 1678850132085, Thread 303: XXXX 1678850132084, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850132086 XXXX 1678850132086, Thread 303: XXXX 1678850132086, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850132186 XXXX 1678850132186, Thread 303: XXXX 1678850132186, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850132188 XXXX 1678850132188, Thread 303: XXXX 1678850132188, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850132288 XXXX 1678850132288, Thread 303: XXXX 1678850132288, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850132289 XXXX 1678850132289, Thread 303: XXXX 1678850132289, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850132389 XXXX 1678850132389, Thread 303: XXXX 1678850132389, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850132390 XXXX 1678850132390, Thread 303: XXXX 1678850132390, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850132492 XXXX 1678850132492, Thread 303: XXXX 1678850132492, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850132494 XXXX 1678850132494, Thread 303: XXXX 1678850132494, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850132595 XXXX 1678850132595, Thread 303: XXXX 1678850132595, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850132597 XXXX 1678850132597, Thread 303: XXXX 1678850132597, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850132697 XXXX 1678850132697, Thread 303: XXXX 1678850132697, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850132699 XXXX 1678850132699, Thread 303: XXXX 1678850132699, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850132803 XXXX 1678850132803, Thread 303: XXXX 1678850132803, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850132805 XXXX 1678850132805, Thread 303: XXXX 1678850132805, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850132904 XXXX 1678850132904, Thread 303: XXXX 1678850132904, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850132906 XXXX 1678850132906, Thread 303: XXXX 1678850132906, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850133006 XXXX 1678850133006, Thread 303: XXXX 1678850133006, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850133007 XXXX 1678850133007, Thread 303: XXXX 1678850133007, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850133106 XXXX 1678850133106, Thread 303: XXXX 1678850133106, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850133108 XXXX 1678850133108, Thread 303: XXXX 1678850133108, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850133207 XXXX 1678850133207, Thread 303: XXXX 1678850133207, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850133209 XXXX 1678850133209, Thread 303: XXXX 1678850133209, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850133308 XXXX 1678850133308, Thread 303: XXXX 1678850133308, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850133309 XXXX 1678850133309, Thread 303: XXXX 1678850133309, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850133408 XXXX 1678850133408, Thread 303: XXXX 1678850133408, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850133411 XXXX 1678850133411, Thread 303: XXXX 1678850133411, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850133510 XXXX 1678850133510, Thread 303: XXXX 1678850133510, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850133513 XXXX 1678850133513, Thread 303: XXXX 1678850133513, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850133611 XXXX 1678850133611, Thread 303: XXXX 1678850133611, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850133613 XXXX 1678850133613, Thread 303: XXXX 1678850133613, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850133711 XXXX 1678850133711, Thread 303: XXXX 1678850133711, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850133712 XXXX 1678850133712, Thread 303: XXXX 1678850133712, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850133811 XXXX 1678850133811, Thread 303: XXXX 1678850133811, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850133812 XXXX 1678850133812, Thread 303: XXXX 1678850133812, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850133913 XXXX 1678850133913, Thread 303: XXXX 1678850133913, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850133914 XXXX 1678850133914, Thread 303: XXXX 1678850133914, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850134012 XXXX 1678850134012, Thread 303: XXXX 1678850134012, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850134014 XXXX 1678850134014, Thread 303: XXXX 1678850134014, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850134113 XXXX 1678850134113, Thread 303: XXXX 1678850134113, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850134114 XXXX 1678850134114, Thread 303: XXXX 1678850134114, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850134213 XXXX 1678850134213, Thread 303: XXXX 1678850134213, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850134216 XXXX 1678850134216, Thread 303: XXXX 1678850134216, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850134316 XXXX 1678850134316, Thread 303: XXXX 1678850134316, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850134317 XXXX 1678850134317, Thread 303: XXXX 1678850134317, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850134416 XXXX 1678850134416, Thread 303: XXXX 1678850134416, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850134418 XXXX 1678850134418, Thread 303: XXXX 1678850134418, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850134516 XXXX 1678850134516, Thread 303: XXXX 1678850134516, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850134519 XXXX 1678850134519, Thread 303: XXXX 1678850134519, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850134617 XXXX 1678850134617, Thread 303: XXXX 1678850134617, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850134618 XXXX 1678850134618, Thread 303: XXXX 1678850134618, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850134717 XXXX 1678850134717, Thread 303: XXXX 1678850134717, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850134719 XXXX 1678850134719, Thread 303: XXXX 1678850134719, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850134826 XXXX 1678850134826, Thread 303: XXXX 1678850134826, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850134826 XXXX 1678850134826, Thread 303: XXXX 1678850134826, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850134926 XXXX 1678850134926, Thread 303: XXXX 1678850134926, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850134927 XXXX 1678850134927, Thread 303: XXXX 1678850134927, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850135025 XXXX 1678850135025, Thread 303: XXXX 1678850135025, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850135027 XXXX 1678850135027, Thread 303: XXXX 1678850135027, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850135126 XXXX 1678850135126, Thread 303: XXXX 1678850135126, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850135127 XXXX 1678850135127, Thread 303: XXXX 1678850135127, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850135227 XXXX 1678850135227, Thread 303: XXXX 1678850135227, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850135229 XXXX 1678850135229, Thread 303: XXXX 1678850135229, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850135329 XXXX 1678850135329, Thread 303: XXXX 1678850135329, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850135331 XXXX 1678850135331, Thread 303: XXXX 1678850135331, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850135428 XXXX 1678850135428, Thread 303: XXXX 1678850135428, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850135429 XXXX 1678850135429, Thread 303: XXXX 1678850135429, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850135529 XXXX 1678850135529, Thread 303: XXXX 1678850135529, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850135531 XXXX 1678850135531, Thread 303: XXXX 1678850135531, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850135630 XXXX 1678850135630, Thread 303: XXXX 1678850135630, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850135631 XXXX 1678850135631, Thread 303: XXXX 1678850135631, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850135731 XXXX 1678850135731, Thread 303: XXXX 1678850135731, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850135732 XXXX 1678850135732, Thread 303: XXXX 1678850135732, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850135832 XXXX 1678850135832, Thread 303: XXXX 1678850135832, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850135834 XXXX 1678850135834, Thread 303: XXXX 1678850135834, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850135935 XXXX 1678850135935, Thread 303: XXXX 1678850135935, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850135936 XXXX 1678850135936, Thread 303: XXXX 1678850135936, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850136035 XXXX 1678850136035, Thread 303: XXXX 1678850136035, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850136036 XXXX 1678850136036, Thread 303: XXXX 1678850136036, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850136136 XXXX 1678850136136, Thread 303: XXXX 1678850136136, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850136137 XXXX 1678850136137, Thread 303: XXXX 1678850136137, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850136237 XXXX 1678850136237, Thread 303: XXXX 1678850136237, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850136239 XXXX 1678850136239, Thread 303: XXXX 1678850136239, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850136338 XXXX 1678850136338, Thread 303: XXXX 1678850136338, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850136340 XXXX 1678850136340, Thread 303: XXXX 1678850136340, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850136439 XXXX 1678850136439, Thread 303: XXXX 1678850136439, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850136440 XXXX 1678850136440, Thread 303: XXXX 1678850136440, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850136540 XXXX 1678850136540, Thread 303: XXXX 1678850136540, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850136541 XXXX 1678850136541, Thread 303: XXXX 1678850136541, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850136641 XXXX 1678850136641, Thread 303: XXXX 1678850136641, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850136642 XXXX 1678850136642, Thread 303: XXXX 1678850136642, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850136743 XXXX 1678850136743, Thread 303: XXXX 1678850136743, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850136744 XXXX 1678850136744, Thread 303: XXXX 1678850136744, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850136842 XXXX 1678850136842, Thread 303: XXXX 1678850136842, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850136843 XXXX 1678850136843, Thread 303: XXXX 1678850136843, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850136943 XXXX 1678850136943, Thread 303: XXXX 1678850136943, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850136945 XXXX 1678850136945, Thread 303: XXXX 1678850136945, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850137044 XXXX 1678850137044, Thread 303: XXXX 1678850137044, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850137045 XXXX 1678850137045, Thread 303: XXXX 1678850137045, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850137144 XXXX 1678850137144, Thread 303: XXXX 1678850137144, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850137145 XXXX 1678850137145, Thread 303: XXXX 1678850137145, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850137246 XXXX 1678850137246, Thread 303: XXXX 1678850137246, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850137248 XXXX 1678850137248, Thread 303: XXXX 1678850137248, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850137349 XXXX 1678850137349, Thread 303: XXXX 1678850137349, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850137349 XXXX 1678850137349, Thread 303: XXXX 1678850137349, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850137448 XXXX 1678850137448, Thread 303: XXXX 1678850137448, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850137449 XXXX 1678850137449, Thread 303: XXXX 1678850137449, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850137549 XXXX 1678850137549, Thread 303: XXXX 1678850137549, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850137550 XXXX 1678850137550, Thread 303: XXXX 1678850137550, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850137649 XXXX 1678850137649, Thread 303: XXXX 1678850137649, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850137652 XXXX 1678850137652, Thread 303: XXXX 1678850137652, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850137753 XXXX 1678850137753, Thread 303: XXXX 1678850137753, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850137754 XXXX 1678850137754, Thread 303: XXXX 1678850137754, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850137854 XXXX 1678850137854, Thread 303: XXXX 1678850137854, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850137856 XXXX 1678850137856, Thread 303: XXXX 1678850137856, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850137955 XXXX 1678850137955, Thread 303: XXXX 1678850137955, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850137956 XXXX 1678850137956, Thread 303: XXXX 1678850137956, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850138058 XXXX 1678850138058, Thread 303: XXXX 1678850138058, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850138060 XXXX 1678850138060, Thread 303: XXXX 1678850138060, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850138159 XXXX 1678850138159, Thread 303: XXXX 1678850138159, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850138161 XXXX 1678850138161, Thread 303: XXXX 1678850138161, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850138259 XXXX 1678850138259, Thread 303: XXXX 1678850138259, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850138262 XXXX 1678850138262, Thread 303: XXXX 1678850138262, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850138362 XXXX 1678850138362, Thread 303: XXXX 1678850138362, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850138363 XXXX 1678850138363, Thread 303: XXXX 1678850138363, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850138462 XXXX 1678850138462, Thread 303: XXXX 1678850138462, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850138463 XXXX 1678850138463, Thread 303: XXXX 1678850138463, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850138564 XXXX 1678850138564, Thread 303: XXXX 1678850138564, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850138566 XXXX 1678850138566, Thread 303: XXXX 1678850138566, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850138664 XXXX 1678850138664, Thread 303: XXXX 1678850138664, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850138665 XXXX 1678850138665, Thread 303: XXXX 1678850138665, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850138765 XXXX 1678850138765, Thread 303: XXXX 1678850138765, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850138766 XXXX 1678850138766, Thread 303: XXXX 1678850138766, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850138864 XXXX 1678850138864, Thread 303: XXXX 1678850138864, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850138865 XXXX 1678850138865, Thread 303: XXXX 1678850138865, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850138965 XXXX 1678850138965, Thread 303: XXXX 1678850138965, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850138967 XXXX 1678850138967, Thread 303: XXXX 1678850138967, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850139066 XXXX 1678850139066, Thread 303: XXXX 1678850139066, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850139068 XXXX 1678850139068, Thread 303: XXXX 1678850139068, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850139167 XXXX 1678850139167, Thread 303: XXXX 1678850139167, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850139170 XXXX 1678850139170, Thread 303: XXXX 1678850139170, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850139269 XXXX 1678850139269, Thread 303: XXXX 1678850139269, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850139270 XXXX 1678850139270, Thread 303: XXXX 1678850139270, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850139369 XXXX 1678850139369, Thread 303: XXXX 1678850139369, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850139370 XXXX 1678850139370, Thread 303: XXXX 1678850139370, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850139471 XXXX 1678850139471, Thread 303: XXXX 1678850139471, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850139471 XXXX 1678850139471, Thread 303: XXXX 1678850139471, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850139571 XXXX 1678850139571, Thread 303: XXXX 1678850139571, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850139572 XXXX 1678850139572, Thread 303: XXXX 1678850139572, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850139671 XXXX 1678850139671, Thread 303: XXXX 1678850139671, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850139673 XXXX 1678850139673, Thread 303: XXXX 1678850139673, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850139771 XXXX 1678850139771, Thread 303: XXXX 1678850139771, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850139772 XXXX 1678850139772, Thread 303: XXXX 1678850139772, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850139872 XXXX 1678850139872, Thread 303: XXXX 1678850139872, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850139873 XXXX 1678850139873, Thread 303: XXXX 1678850139873, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850139973 XXXX 1678850139973, Thread 303: XXXX 1678850139973, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850139973 XXXX 1678850139973, Thread 303: XXXX 1678850139973, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850140075 XXXX 1678850140075, Thread 303: XXXX 1678850140075, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850140077 XXXX 1678850140077, Thread 303: XXXX 1678850140077, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850140176 XXXX 1678850140176, Thread 303: XXXX 1678850140176, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850140177 XXXX 1678850140177, Thread 303: XXXX 1678850140177, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850140278 XXXX 1678850140278, Thread 303: XXXX 1678850140278, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850140279 XXXX 1678850140279, Thread 303: XXXX 1678850140279, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850140378 XXXX 1678850140378, Thread 303: XXXX 1678850140378, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850140379 XXXX 1678850140379, Thread 303: XXXX 1678850140379, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850140479 XXXX 1678850140479, Thread 303: XXXX 1678850140479, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850140481 XXXX 1678850140481, Thread 303: XXXX 1678850140481, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850140579 XXXX 1678850140579, Thread 303: XXXX 1678850140579, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850140580 XXXX 1678850140580, Thread 303: XXXX 1678850140580, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850140679 XXXX 1678850140679, Thread 303: XXXX 1678850140679, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850140680 XXXX 1678850140680, Thread 303: XXXX 1678850140680, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850140780 XXXX 1678850140780, Thread 303: XXXX 1678850140780, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850140782 XXXX 1678850140782, Thread 303: XXXX 1678850140782, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850140890 XXXX 1678850140890, Thread 303: XXXX 1678850140890, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850140891 XXXX 1678850140891, Thread 303: XXXX 1678850140891, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850140990 XXXX 1678850140990, Thread 303: XXXX 1678850140990, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850140993 XXXX 1678850140993, Thread 303: XXXX 1678850140993, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850141092 XXXX 1678850141092, Thread 303: XXXX 1678850141092, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850141094 XXXX 1678850141094, Thread 303: XXXX 1678850141094, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850141194 XXXX 1678850141194, Thread 303: XXXX 1678850141194, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850141196 XXXX 1678850141196, Thread 303: XXXX 1678850141196, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850141295 XXXX 1678850141295, Thread 303: XXXX 1678850141295, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850141297 XXXX 1678850141297, Thread 303: XXXX 1678850141297, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850141395 XXXX 1678850141395, Thread 303: XXXX 1678850141395, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850141396 XXXX 1678850141396, Thread 303: XXXX 1678850141396, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850141500 XXXX 1678850141500, Thread 303: XXXX 1678850141500, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850141501 XXXX 1678850141501, Thread 303: XXXX 1678850141501, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850141603 XXXX 1678850141603, Thread 303: XXXX 1678850141603, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850141604 XXXX 1678850141604, Thread 303: XXXX 1678850141604, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850141704 XXXX 1678850141704, Thread 303: XXXX 1678850141704, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850141705 XXXX 1678850141705, Thread 303: XXXX 1678850141705, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850141805 XXXX 1678850141805, Thread 303: XXXX 1678850141805, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850141807 XXXX 1678850141807, Thread 303: XXXX 1678850141807, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850141915 XXXX 1678850141915, Thread 303: XXXX 1678850141915, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850141917 XXXX 1678850141917, Thread 303: XXXX 1678850141917, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850142015 XXXX 1678850142015, Thread 303: XXXX 1678850142015, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850142016 XXXX 1678850142016, Thread 303: XXXX 1678850142016, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850142115 XXXX 1678850142115, Thread 303: XXXX 1678850142115, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850142116 XXXX 1678850142116, Thread 303: XXXX 1678850142116, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850142222 XXXX 1678850142222, Thread 303: XXXX 1678850142222, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850142224 XXXX 1678850142224, Thread 303: XXXX 1678850142224, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850142323 XXXX 1678850142323, Thread 303: XXXX 1678850142323, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850142325 XXXX 1678850142325, Thread 303: XXXX 1678850142325, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850142424 XXXX 1678850142424, Thread 303: XXXX 1678850142424, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850142426 XXXX 1678850142426, Thread 303: XXXX 1678850142426, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850142525 XXXX 1678850142525, Thread 303: XXXX 1678850142525, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850142526 XXXX 1678850142526, Thread 303: XXXX 1678850142526, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850142627 XXXX 1678850142627, Thread 303: XXXX 1678850142627, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850142629 XXXX 1678850142629, Thread 303: XXXX 1678850142629, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850142729 XXXX 1678850142729, Thread 303: XXXX 1678850142729, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850142730 XXXX 1678850142730, Thread 303: XXXX 1678850142730, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850142829 XXXX 1678850142829, Thread 303: XXXX 1678850142829, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850142831 XXXX 1678850142831, Thread 303: XXXX 1678850142831, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850142930 XXXX 1678850142930, Thread 303: XXXX 1678850142930, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850142931 XXXX 1678850142931, Thread 303: XXXX 1678850142931, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850143031 XXXX 1678850143031, Thread 303: XXXX 1678850143031, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850143033 XXXX 1678850143033, Thread 303: XXXX 1678850143033, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850143131 XXXX 1678850143131, Thread 303: XXXX 1678850143131, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850143134 XXXX 1678850143134, Thread 303: XXXX 1678850143134, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850143231 XXXX 1678850143231, Thread 303: XXXX 1678850143231, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850143234 XXXX 1678850143234, Thread 303: XXXX 1678850143234, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850143332 XXXX 1678850143332, Thread 303: XXXX 1678850143332, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850143334 XXXX 1678850143334, Thread 303: XXXX 1678850143334, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850143432 XXXX 1678850143432, Thread 303: XXXX 1678850143432, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850143434 XXXX 1678850143434, Thread 303: XXXX 1678850143434, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850143534 XXXX 1678850143534, Thread 303: XXXX 1678850143534, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850143534 XXXX 1678850143534, Thread 303: XXXX 1678850143534, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850143635 XXXX 1678850143635, Thread 303: XXXX 1678850143635, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850143636 XXXX 1678850143636, Thread 303: XXXX 1678850143636, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850143736 XXXX 1678850143736, Thread 303: XXXX 1678850143736, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850143737 XXXX 1678850143737, Thread 303: XXXX 1678850143737, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850143836 XXXX 1678850143836, Thread 303: XXXX 1678850143836, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850143837 XXXX 1678850143837, Thread 303: XXXX 1678850143837, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850143938 XXXX 1678850143938, Thread 303: XXXX 1678850143938, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850143939 XXXX 1678850143939, Thread 303: XXXX 1678850143939, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850144038 XXXX 1678850144038, Thread 303: XXXX 1678850144038, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850144040 XXXX 1678850144040, Thread 303: XXXX 1678850144040, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850144143 XXXX 1678850144143, Thread 303: XXXX 1678850144143, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850144144 XXXX 1678850144144, Thread 303: XXXX 1678850144144, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850144245 XXXX 1678850144245, Thread 303: XXXX 1678850144245, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850144248 XXXX 1678850144248, Thread 303: XXXX 1678850144248, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850144347 XXXX 1678850144347, Thread 303: XXXX 1678850144347, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850144349 XXXX 1678850144349, Thread 303: XXXX 1678850144349, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850144449 XXXX 1678850144449, Thread 303: XXXX 1678850144449, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850144450 XXXX 1678850144450, Thread 303: XXXX 1678850144450, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850144548 XXXX 1678850144548, Thread 303: XXXX 1678850144548, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850144550 XXXX 1678850144550, Thread 303: XXXX 1678850144550, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850144649 XXXX 1678850144649, Thread 303: XXXX 1678850144649, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850144651 XXXX 1678850144651, Thread 303: XXXX 1678850144651, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850144749 XXXX 1678850144749, Thread 303: XXXX 1678850144749, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850144751 XXXX 1678850144751, Thread 303: XXXX 1678850144751, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850144849 XXXX 1678850144849, Thread 303: XXXX 1678850144849, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850144850 XXXX 1678850144850, Thread 303: XXXX 1678850144850, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850144951 XXXX 1678850144951, Thread 303: XXXX 1678850144951, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850144953 XXXX 1678850144953, Thread 303: XXXX 1678850144953, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850145051 XXXX 1678850145051, Thread 303: XXXX 1678850145051, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850145053 XXXX 1678850145053, Thread 303: XXXX 1678850145053, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850145151 XXXX 1678850145151, Thread 303: XXXX 1678850145151, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850145153 XXXX 1678850145153, Thread 303: XXXX 1678850145153, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850145254 XXXX 1678850145254, Thread 303: XXXX 1678850145254, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850145255 XXXX 1678850145255, Thread 303: XXXX 1678850145255, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850145355 XXXX 1678850145354, Thread 303: XXXX 1678850145354, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850145356 XXXX 1678850145356, Thread 303: XXXX 1678850145356, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850145456 XXXX 1678850145456, Thread 303: XXXX 1678850145456, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850145457 XXXX 1678850145457, Thread 303: XXXX 1678850145457, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850145563 XXXX 1678850145563, Thread 303: XXXX 1678850145563, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850145564 XXXX 1678850145564, Thread 303: XXXX 1678850145564, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850145663 XXXX 1678850145663, Thread 303: XXXX 1678850145663, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850145665 XXXX 1678850145665, Thread 303: XXXX 1678850145665, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850145763 XXXX 1678850145763, Thread 303: XXXX 1678850145763, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850145766 XXXX 1678850145766, Thread 303: XXXX 1678850145766, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850145863 XXXX 1678850145863, Thread 303: XXXX 1678850145863, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850145865 XXXX 1678850145865, Thread 303: XXXX 1678850145865, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850145964 XXXX 1678850145964, Thread 303: XXXX 1678850145964, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850145966 XXXX 1678850145966, Thread 303: XXXX 1678850145966, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850146066 XXXX 1678850146066, Thread 303: XXXX 1678850146066, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850146069 XXXX 1678850146069, Thread 303: XXXX 1678850146069, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850146168 XXXX 1678850146168, Thread 303: XXXX 1678850146168, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850146170 XXXX 1678850146170, Thread 303: XXXX 1678850146170, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850146268 XXXX 1678850146268, Thread 303: XXXX 1678850146268, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850146271 XXXX 1678850146271, Thread 303: XXXX 1678850146271, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850146370 XXXX 1678850146370, Thread 303: XXXX 1678850146370, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850146372 XXXX 1678850146372, Thread 303: XXXX 1678850146372, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850146470 XXXX 1678850146470, Thread 303: XXXX 1678850146470, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850146472 XXXX 1678850146472, Thread 303: XXXX 1678850146472, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850146584 XXXX 1678850146584, Thread 303: XXXX 1678850146584, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850146585 XXXX 1678850146585, Thread 303: XXXX 1678850146585, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850146686 XXXX 1678850146686, Thread 303: XXXX 1678850146686, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850146687 XXXX 1678850146687, Thread 303: XXXX 1678850146687, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850146785 XXXX 1678850146785, Thread 303: XXXX 1678850146785, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850146788 XXXX 1678850146788, Thread 303: XXXX 1678850146788, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850146886 XXXX 1678850146886, Thread 303: XXXX 1678850146886, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850146888 XXXX 1678850146888, Thread 303: XXXX 1678850146888, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850146988 XXXX 1678850146988, Thread 303: XXXX 1678850146988, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850146989 XXXX 1678850146989, Thread 303: XXXX 1678850146989, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850147094 XXXX 1678850147094, Thread 303: XXXX 1678850147094, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850147094 XXXX 1678850147094, Thread 303: XXXX 1678850147094, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850147196 XXXX 1678850147196, Thread 303: XXXX 1678850147196, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850147197 XXXX 1678850147197, Thread 303: XXXX 1678850147197, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850147296 XXXX 1678850147296, Thread 303: XXXX 1678850147296, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850147297 XXXX 1678850147297, Thread 303: XXXX 1678850147297, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850147396 XXXX 1678850147396, Thread 303: XXXX 1678850147396, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850147397 XXXX 1678850147397, Thread 303: XXXX 1678850147397, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850147497 XXXX 1678850147497, Thread 303: XXXX 1678850147497, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850147498 XXXX 1678850147498, Thread 303: XXXX 1678850147498, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850147601 XXXX 1678850147601, Thread 303: XXXX 1678850147601, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850147602 XXXX 1678850147602, Thread 303: XXXX 1678850147602, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850147703 XXXX 1678850147703, Thread 303: XXXX 1678850147703, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850147704 XXXX 1678850147704, Thread 303: XXXX 1678850147704, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850147803 XXXX 1678850147803, Thread 303: XXXX 1678850147803, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850147804 XXXX 1678850147804, Thread 303: XXXX 1678850147804, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850147904 XXXX 1678850147904, Thread 303: XXXX 1678850147904, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850147906 XXXX 1678850147906, Thread 303: XXXX 1678850147906, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850148005 XXXX 1678850148005, Thread 303: XXXX 1678850148005, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850148006 XXXX 1678850148006, Thread 303: XXXX 1678850148006, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850148104 XXXX 1678850148104, Thread 303: XXXX 1678850148104, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850148105 XXXX 1678850148105, Thread 303: XXXX 1678850148105, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850148210 XXXX 1678850148210, Thread 303: XXXX 1678850148210, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850148211 XXXX 1678850148211, Thread 303: XXXX 1678850148211, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850148312 XXXX 1678850148312, Thread 303: XXXX 1678850148312, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850148314 XXXX 1678850148314, Thread 303: XXXX 1678850148314, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850148414 XXXX 1678850148414, Thread 303: XXXX 1678850148414, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850148416 XXXX 1678850148416, Thread 303: XXXX 1678850148416, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850148514 XXXX 1678850148514, Thread 303: XXXX 1678850148514, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850148516 XXXX 1678850148516, Thread 303: XXXX 1678850148516, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850148616 XXXX 1678850148616, Thread 303: XXXX 1678850148616, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850148617 XXXX 1678850148617, Thread 303: XXXX 1678850148617, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850148718 XXXX 1678850148718, Thread 303: XXXX 1678850148718, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850148720 XXXX 1678850148720, Thread 303: XXXX 1678850148720, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850148820 XXXX 1678850148820, Thread 303: XXXX 1678850148820, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850148821 XXXX 1678850148821, Thread 303: XXXX 1678850148821, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850148921 XXXX 1678850148921, Thread 303: XXXX 1678850148921, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850148923 XXXX 1678850148923, Thread 303: XXXX 1678850148923, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850149022 XXXX 1678850149022, Thread 303: XXXX 1678850149022, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850149024 XXXX 1678850149024, Thread 303: XXXX 1678850149024, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850149123 XXXX 1678850149123, Thread 303: XXXX 1678850149123, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850149125 XXXX 1678850149125, Thread 303: XXXX 1678850149125, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850149237 XXXX 1678850149237, Thread 303: XXXX 1678850149237, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850149237 XXXX 1678850149237, Thread 303: XXXX 1678850149237, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850149338 XXXX 1678850149338, Thread 303: XXXX 1678850149338, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850149339 XXXX 1678850149339, Thread 303: XXXX 1678850149339, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850149438 XXXX 1678850149438, Thread 303: XXXX 1678850149438, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850149439 XXXX 1678850149439, Thread 303: XXXX 1678850149439, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850149538 XXXX 1678850149538, Thread 303: XXXX 1678850149538, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850149539 XXXX 1678850149539, Thread 303: XXXX 1678850149539, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850149638 XXXX 1678850149638, Thread 303: XXXX 1678850149638, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850149640 XXXX 1678850149640, Thread 303: XXXX 1678850149640, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850149738 XXXX 1678850149738, Thread 303: XXXX 1678850149738, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850149739 XXXX 1678850149739, Thread 303: XXXX 1678850149739, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850149838 XXXX 1678850149838, Thread 303: XXXX 1678850149838, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850149839 XXXX 1678850149839, Thread 303: XXXX 1678850149839, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850149939 XXXX 1678850149939, Thread 303: XXXX 1678850149939, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850149941 XXXX 1678850149941, Thread 303: XXXX 1678850149941, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850150040 XXXX 1678850150040, Thread 303: XXXX 1678850150040, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850150042 XXXX 1678850150042, Thread 303: XXXX 1678850150042, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850150141 XXXX 1678850150141, Thread 303: XXXX 1678850150141, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850150143 XXXX 1678850150143, Thread 303: XXXX 1678850150143, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850150243 XXXX 1678850150243, Thread 303: XXXX 1678850150243, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850150244 XXXX 1678850150244, Thread 303: XXXX 1678850150244, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850150349 XXXX 1678850150349, Thread 303: XXXX 1678850150349, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850150351 XXXX 1678850150351, Thread 303: XXXX 1678850150351, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850150450 XXXX 1678850150450, Thread 303: XXXX 1678850150450, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850150452 XXXX 1678850150452, Thread 303: XXXX 1678850150452, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850150550 XXXX 1678850150550, Thread 303: XXXX 1678850150550, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850150551 XXXX 1678850150551, Thread 303: XXXX 1678850150551, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850150657 XXXX 1678850150657, Thread 303: XXXX 1678850150657, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850150659 XXXX 1678850150659, Thread 303: XXXX 1678850150659, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850150758 XXXX 1678850150758, Thread 303: XXXX 1678850150758, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850150760 XXXX 1678850150760, Thread 303: XXXX 1678850150760, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850150858 XXXX 1678850150858, Thread 303: XXXX 1678850150858, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850150860 XXXX 1678850150860, Thread 303: XXXX 1678850150860, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850150960 XXXX 1678850150960, Thread 303: XXXX 1678850150960, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850150962 XXXX 1678850150962, Thread 303: XXXX 1678850150962, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850151063 XXXX 1678850151063, Thread 303: XXXX 1678850151063, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850151064 XXXX 1678850151064, Thread 303: XXXX 1678850151064, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850151164 XXXX 1678850151164, Thread 303: XXXX 1678850151164, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850151165 XXXX 1678850151165, Thread 303: XXXX 1678850151165, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850151266 XXXX 1678850151266, Thread 303: XXXX 1678850151266, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850151267 XXXX 1678850151267, Thread 303: XXXX 1678850151267, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850151366 XXXX 1678850151366, Thread 303: XXXX 1678850151366, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850151368 XXXX 1678850151368, Thread 303: XXXX 1678850151368, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850151467 XXXX 1678850151467, Thread 303: XXXX 1678850151467, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850151469 XXXX 1678850151469, Thread 303: XXXX 1678850151469, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850151567 XXXX 1678850151567, Thread 303: XXXX 1678850151567, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850151569 XXXX 1678850151569, Thread 303: XXXX 1678850151569, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850151667 XXXX 1678850151667, Thread 303: XXXX 1678850151667, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850151670 XXXX 1678850151670, Thread 303: XXXX 1678850151670, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850151774 XXXX 1678850151774, Thread 303: XXXX 1678850151774, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850151776 XXXX 1678850151776, Thread 303: XXXX 1678850151776, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850151874 XXXX 1678850151874, Thread 303: XXXX 1678850151874, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850151875 XXXX 1678850151875, Thread 303: XXXX 1678850151875, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850151975 XXXX 1678850151975, Thread 303: XXXX 1678850151975, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850151976 XXXX 1678850151976, Thread 303: XXXX 1678850151976, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850152076 XXXX 1678850152076, Thread 303: XXXX 1678850152076, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850152077 XXXX 1678850152077, Thread 303: XXXX 1678850152077, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850152179 XXXX 1678850152179, Thread 303: XXXX 1678850152179, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850152181 XXXX 1678850152181, Thread 303: XXXX 1678850152181, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850152280 XXXX 1678850152280, Thread 303: XXXX 1678850152280, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850152282 XXXX 1678850152282, Thread 303: XXXX 1678850152282, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850152381 XXXX 1678850152381, Thread 303: XXXX 1678850152381, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850152383 XXXX 1678850152383, Thread 303: XXXX 1678850152383, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850152482 XXXX 1678850152482, Thread 303: XXXX 1678850152482, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850152484 XXXX 1678850152484, Thread 303: XXXX 1678850152484, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850152583 XXXX 1678850152583, Thread 303: XXXX 1678850152583, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850152585 XXXX 1678850152585, Thread 303: XXXX 1678850152585, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850152683 XXXX 1678850152683, Thread 303: XXXX 1678850152683, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850152684 XXXX 1678850152684, Thread 303: XXXX 1678850152684, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850152786 XXXX 1678850152786, Thread 303: XXXX 1678850152786, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850152787 XXXX 1678850152787, Thread 303: XXXX 1678850152787, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850152887 XXXX 1678850152887, Thread 303: XXXX 1678850152887, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850152889 XXXX 1678850152889, Thread 303: XXXX 1678850152889, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850152988 XXXX 1678850152988, Thread 303: XXXX 1678850152988, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850152990 XXXX 1678850152990, Thread 303: XXXX 1678850152990, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850153088 XXXX 1678850153088, Thread 303: XXXX 1678850153088, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850153089 XXXX 1678850153089, Thread 303: XXXX 1678850153089, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850153189 XXXX 1678850153189, Thread 303: XXXX 1678850153189, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850153190 XXXX 1678850153190, Thread 303: XXXX 1678850153190, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850153288 XXXX 1678850153288, Thread 303: XXXX 1678850153288, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850153291 XXXX 1678850153291, Thread 303: XXXX 1678850153291, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850153390 XXXX 1678850153390, Thread 303: XXXX 1678850153390, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850153391 XXXX 1678850153391, Thread 303: XXXX 1678850153391, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850153491 XXXX 1678850153491, Thread 303: XXXX 1678850153491, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850153492 XXXX 1678850153492, Thread 303: XXXX 1678850153492, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850153590 XXXX 1678850153590, Thread 303: XXXX 1678850153590, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850153593 XXXX 1678850153593, Thread 303: XXXX 1678850153593, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850153692 XXXX 1678850153692, Thread 303: XXXX 1678850153692, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850153693 XXXX 1678850153693, Thread 303: XXXX 1678850153693, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850153793 XXXX 1678850153793, Thread 303: XXXX 1678850153793, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850153793 XXXX 1678850153793, Thread 303: XXXX 1678850153793, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850153895 XXXX 1678850153895, Thread 303: XXXX 1678850153895, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850153897 XXXX 1678850153897, Thread 303: XXXX 1678850153897, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850153997 XXXX 1678850153997, Thread 303: XXXX 1678850153997, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850153998 XXXX 1678850153998, Thread 303: XXXX 1678850153998, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850154097 XXXX 1678850154097, Thread 303: XXXX 1678850154097, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850154098 XXXX 1678850154098, Thread 303: XXXX 1678850154098, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850154199 XXXX 1678850154199, Thread 303: XXXX 1678850154199, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850154200 XXXX 1678850154200, Thread 303: XXXX 1678850154200, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850154300 XXXX 1678850154300, Thread 303: XXXX 1678850154300, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850154301 XXXX 1678850154301, Thread 303: XXXX 1678850154301, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850154399 XXXX 1678850154399, Thread 303: XXXX 1678850154399, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850154401 XXXX 1678850154401, Thread 303: XXXX 1678850154401, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850154499 XXXX 1678850154499, Thread 303: XXXX 1678850154499, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850154501 XXXX 1678850154501, Thread 303: XXXX 1678850154501, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850154600 XXXX 1678850154600, Thread 303: XXXX 1678850154600, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850154603 XXXX 1678850154603, Thread 303: XXXX 1678850154603, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850154700 XXXX 1678850154700, Thread 303: XXXX 1678850154700, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850154702 XXXX 1678850154702, Thread 303: XXXX 1678850154702, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850154802 XXXX 1678850154802, Thread 303: XXXX 1678850154802, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850154803 XXXX 1678850154803, Thread 303: XXXX 1678850154803, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850154904 XXXX 1678850154904, Thread 303: XXXX 1678850154904, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850154906 XXXX 1678850154906, Thread 303: XXXX 1678850154906, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850155004 XXXX 1678850155004, Thread 303: XXXX 1678850155004, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850155006 XXXX 1678850155006, Thread 303: XXXX 1678850155006, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850155105 XXXX 1678850155105, Thread 303: XXXX 1678850155105, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850155106 XXXX 1678850155106, Thread 303: XXXX 1678850155106, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850155206 XXXX 1678850155206, Thread 303: XXXX 1678850155206, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850155208 XXXX 1678850155208, Thread 303: XXXX 1678850155208, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850155307 XXXX 1678850155307, Thread 303: XXXX 1678850155307, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850155309 XXXX 1678850155309, Thread 303: XXXX 1678850155309, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850155410 XXXX 1678850155410, Thread 303: XXXX 1678850155410, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850155412 XXXX 1678850155412, Thread 303: XXXX 1678850155412, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850155513 XXXX 1678850155512, Thread 303: XXXX 1678850155512, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850155514 XXXX 1678850155514, Thread 303: XXXX 1678850155514, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850155613 XXXX 1678850155613, Thread 303: XXXX 1678850155613, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850155614 XXXX 1678850155614, Thread 303: XXXX 1678850155614, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850155712 XXXX 1678850155712, Thread 303: XXXX 1678850155712, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850155714 XXXX 1678850155714, Thread 303: XXXX 1678850155714, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850155813 XXXX 1678850155813, Thread 303: XXXX 1678850155813, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850155816 XXXX 1678850155816, Thread 303: XXXX 1678850155816, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850155915 XXXX 1678850155915, Thread 303: XXXX 1678850155915, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850155917 XXXX 1678850155917, Thread 303: XXXX 1678850155917, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850156017 XXXX 1678850156017, Thread 303: XXXX 1678850156017, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850156018 XXXX 1678850156018, Thread 303: XXXX 1678850156018, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850156117 XXXX 1678850156117, Thread 303: XXXX 1678850156117, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850156118 XXXX 1678850156118, Thread 303: XXXX 1678850156118, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850156219 XXXX 1678850156219, Thread 303: XXXX 1678850156219, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850156220 XXXX 1678850156220, Thread 303: XXXX 1678850156220, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850156323 XXXX 1678850156323, Thread 303: XXXX 1678850156323, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850156325 XXXX 1678850156325, Thread 303: XXXX 1678850156325, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850156424 XXXX 1678850156424, Thread 303: XXXX 1678850156424, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850156425 XXXX 1678850156425, Thread 303: XXXX 1678850156425, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850156526 XXXX 1678850156526, Thread 303: XXXX 1678850156526, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850156527 XXXX 1678850156527, Thread 303: XXXX 1678850156527, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850156626 XXXX 1678850156626, Thread 303: XXXX 1678850156626, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850156628 XXXX 1678850156628, Thread 303: XXXX 1678850156628, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850156726 XXXX 1678850156726, Thread 303: XXXX 1678850156726, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850156729 XXXX 1678850156729, Thread 303: XXXX 1678850156729, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850156829 XXXX 1678850156829, Thread 303: XXXX 1678850156829, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850156831 XXXX 1678850156831, Thread 303: XXXX 1678850156831, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850156930 XXXX 1678850156930, Thread 303: XXXX 1678850156930, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850156932 XXXX 1678850156932, Thread 303: XXXX 1678850156932, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850157031 XXXX 1678850157031, Thread 303: XXXX 1678850157031, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850157032 XXXX 1678850157032, Thread 303: XXXX 1678850157032, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850157133 XXXX 1678850157133, Thread 303: XXXX 1678850157133, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850157134 XXXX 1678850157134, Thread 303: XXXX 1678850157134, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850157233 XXXX 1678850157233, Thread 303: XXXX 1678850157233, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850157235 XXXX 1678850157235, Thread 303: XXXX 1678850157235, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850157334 XXXX 1678850157334, Thread 303: XXXX 1678850157334, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850157336 XXXX 1678850157336, Thread 303: XXXX 1678850157336, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850157437 XXXX 1678850157437, Thread 303: XXXX 1678850157437, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850157438 XXXX 1678850157438, Thread 303: XXXX 1678850157438, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850157536 XXXX 1678850157536, Thread 303: XXXX 1678850157536, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850157539 XXXX 1678850157539, Thread 303: XXXX 1678850157539, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850157638 XXXX 1678850157638, Thread 303: XXXX 1678850157638, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850157640 XXXX 1678850157640, Thread 303: XXXX 1678850157640, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850157739 XXXX 1678850157739, Thread 303: XXXX 1678850157739, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850157741 XXXX 1678850157741, Thread 303: XXXX 1678850157741, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850157839 XXXX 1678850157839, Thread 303: XXXX 1678850157839, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850157840 XXXX 1678850157840, Thread 303: XXXX 1678850157840, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850157939 XXXX 1678850157939, Thread 303: XXXX 1678850157939, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850157941 XXXX 1678850157941, Thread 303: XXXX 1678850157941, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850158039 XXXX 1678850158039, Thread 303: XXXX 1678850158039, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850158042 XXXX 1678850158042, Thread 303: XXXX 1678850158042, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850158140 XXXX 1678850158140, Thread 303: XXXX 1678850158140, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850158142 XXXX 1678850158142, Thread 303: XXXX 1678850158142, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850158242 XXXX 1678850158242, Thread 303: XXXX 1678850158242, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850158242 XXXX 1678850158242, Thread 303: XXXX 1678850158242, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850158341 XXXX 1678850158341, Thread 303: XXXX 1678850158341, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850158343 XXXX 1678850158343, Thread 303: XXXX 1678850158343, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850158444 XXXX 1678850158444, Thread 303: XXXX 1678850158444, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850158446 XXXX 1678850158446, Thread 303: XXXX 1678850158446, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850158546 XXXX 1678850158546, Thread 303: XXXX 1678850158546, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850158547 XXXX 1678850158547, Thread 303: XXXX 1678850158547, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850158650 XXXX 1678850158650, Thread 303: XXXX 1678850158650, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850158650 XXXX 1678850158650, Thread 303: XXXX 1678850158650, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850158750 XXXX 1678850158750, Thread 303: XXXX 1678850158750, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850158752 XXXX 1678850158752, Thread 303: XXXX 1678850158752, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850158851 XXXX 1678850158851, Thread 303: XXXX 1678850158851, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850158853 XXXX 1678850158853, Thread 303: XXXX 1678850158853, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850158952 XXXX 1678850158952, Thread 303: XXXX 1678850158952, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850158954 XXXX 1678850158954, Thread 303: XXXX 1678850158954, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850159054 XXXX 1678850159054, Thread 303: XXXX 1678850159053, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850159055 XXXX 1678850159055, Thread 303: XXXX 1678850159055, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850159153 XXXX 1678850159153, Thread 303: XXXX 1678850159153, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850159155 XXXX 1678850159155, Thread 303: XXXX 1678850159155, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850159256 XXXX 1678850159256, Thread 303: XXXX 1678850159256, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850159257 XXXX 1678850159257, Thread 303: XXXX 1678850159257, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850159355 XXXX 1678850159355, Thread 303: XXXX 1678850159355, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850159356 XXXX 1678850159356, Thread 303: XXXX 1678850159356, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850159456 XXXX 1678850159456, Thread 303: XXXX 1678850159456, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850159458 XXXX 1678850159458, Thread 303: XXXX 1678850159458, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850159559 XXXX 1678850159559, Thread 303: XXXX 1678850159559, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850159559 XXXX 1678850159559, Thread 303: XXXX 1678850159559, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850159659 XXXX 1678850159658, Thread 303: XXXX 1678850159658, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850159660 XXXX 1678850159660, Thread 303: XXXX 1678850159660, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850159759 XXXX 1678850159759, Thread 303: XXXX 1678850159758, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850159761 XXXX 1678850159761, Thread 303: XXXX 1678850159761, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850159859 XXXX 1678850159859, Thread 303: XXXX 1678850159859, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850159861 XXXX 1678850159861, Thread 303: XXXX 1678850159861, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850159960 XXXX 1678850159960, Thread 303: XXXX 1678850159960, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850159962 XXXX 1678850159962, Thread 303: XXXX 1678850159962, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850160060 XXXX 1678850160060, Thread 303: XXXX 1678850160060, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850160061 XXXX 1678850160061, Thread 303: XXXX 1678850160061, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850160160 XXXX 1678850160160, Thread 303: XXXX 1678850160160, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850160161 XXXX 1678850160161, Thread 303: XXXX 1678850160161, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850160261 XXXX 1678850160261, Thread 303: XXXX 1678850160261, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850160264 XXXX 1678850160264, Thread 303: XXXX 1678850160264, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850160362 XXXX 1678850160362, Thread 303: XXXX 1678850160362, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850160362 XXXX 1678850160362, Thread 303: XXXX 1678850160362, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850160463 XXXX 1678850160463, Thread 303: XXXX 1678850160463, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850160464 XXXX 1678850160464, Thread 303: XXXX 1678850160464, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850160563 XXXX 1678850160563, Thread 303: XXXX 1678850160563, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850160565 XXXX 1678850160565, Thread 303: XXXX 1678850160565, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850160664 XXXX 1678850160664, Thread 303: XXXX 1678850160664, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850160666 XXXX 1678850160666, Thread 303: XXXX 1678850160666, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850160766 XXXX 1678850160766, Thread 303: XXXX 1678850160766, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850160767 XXXX 1678850160767, Thread 303: XXXX 1678850160767, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850160866 XXXX 1678850160866, Thread 303: XXXX 1678850160866, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850160868 XXXX 1678850160868, Thread 303: XXXX 1678850160868, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850160966 XXXX 1678850160966, Thread 303: XXXX 1678850160966, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850160969 XXXX 1678850160969, Thread 303: XXXX 1678850160969, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850161068 XXXX 1678850161068, Thread 303: XXXX 1678850161068, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850161069 XXXX 1678850161069, Thread 303: XXXX 1678850161069, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850161169 XXXX 1678850161169, Thread 303: XXXX 1678850161169, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850161171 XXXX 1678850161171, Thread 303: XXXX 1678850161171, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850161269 XXXX 1678850161269, Thread 303: XXXX 1678850161269, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850161270 XXXX 1678850161270, Thread 303: XXXX 1678850161270, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850161369 XXXX 1678850161369, Thread 303: XXXX 1678850161369, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850161371 XXXX 1678850161371, Thread 303: XXXX 1678850161371, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850161471 XXXX 1678850161471, Thread 303: XXXX 1678850161471, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850161473 XXXX 1678850161473, Thread 303: XXXX 1678850161473, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850161571 XXXX 1678850161571, Thread 303: XXXX 1678850161571, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850161573 XXXX 1678850161573, Thread 303: XXXX 1678850161573, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850161672 XXXX 1678850161672, Thread 303: XXXX 1678850161672, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850161674 XXXX 1678850161674, Thread 303: XXXX 1678850161674, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850161773 XXXX 1678850161773, Thread 303: XXXX 1678850161773, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850161774 XXXX 1678850161774, Thread 303: XXXX 1678850161774, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850161874 XXXX 1678850161874, Thread 303: XXXX 1678850161874, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850161875 XXXX 1678850161875, Thread 303: XXXX 1678850161875, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850161975 XXXX 1678850161975, Thread 303: XXXX 1678850161975, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850161977 XXXX 1678850161977, Thread 303: XXXX 1678850161977, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850162077 XXXX 1678850162077, Thread 303: XXXX 1678850162077, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850162079 XXXX 1678850162079, Thread 303: XXXX 1678850162079, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850162178 XXXX 1678850162178, Thread 303: XXXX 1678850162178, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850162180 XXXX 1678850162180, Thread 303: XXXX 1678850162180, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850162279 XXXX 1678850162279, Thread 303: XXXX 1678850162279, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850162280 XXXX 1678850162280, Thread 303: XXXX 1678850162280, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850162380 XXXX 1678850162380, Thread 303: XXXX 1678850162380, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850162381 XXXX 1678850162381, Thread 303: XXXX 1678850162381, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850162480 XXXX 1678850162480, Thread 303: XXXX 1678850162480, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850162483 XXXX 1678850162483, Thread 303: XXXX 1678850162483, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850162582 XXXX 1678850162582, Thread 303: XXXX 1678850162582, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850162583 XXXX 1678850162583, Thread 303: XXXX 1678850162583, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850162684 XXXX 1678850162684, Thread 303: XXXX 1678850162684, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850162685 XXXX 1678850162685, Thread 303: XXXX 1678850162685, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850162785 XXXX 1678850162785, Thread 303: XXXX 1678850162785, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850162787 XXXX 1678850162787, Thread 303: XXXX 1678850162787, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850162886 XXXX 1678850162886, Thread 303: XXXX 1678850162886, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850162888 XXXX 1678850162888, Thread 303: XXXX 1678850162888, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850162988 XXXX 1678850162988, Thread 303: XXXX 1678850162988, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850162990 XXXX 1678850162990, Thread 303: XXXX 1678850162990, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850163091 XXXX 1678850163091, Thread 303: XXXX 1678850163091, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850163092 XXXX 1678850163092, Thread 303: XXXX 1678850163092, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850163191 XXXX 1678850163191, Thread 303: XXXX 1678850163191, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850163192 XXXX 1678850163192, Thread 303: XXXX 1678850163192, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850163292 XXXX 1678850163292, Thread 303: XXXX 1678850163292, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850163293 XXXX 1678850163293, Thread 303: XXXX 1678850163293, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850163393 XXXX 1678850163393, Thread 303: XXXX 1678850163393, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850163395 XXXX 1678850163395, Thread 303: XXXX 1678850163395, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850163494 XXXX 1678850163494, Thread 303: XXXX 1678850163494, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850163497 XXXX 1678850163497, Thread 303: XXXX 1678850163497, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850163596 XXXX 1678850163596, Thread 303: XXXX 1678850163596, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850163597 XXXX 1678850163597, Thread 303: XXXX 1678850163597, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850163696 XXXX 1678850163696, Thread 303: XXXX 1678850163696, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850163699 XXXX 1678850163699, Thread 303: XXXX 1678850163699, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850163798 XXXX 1678850163798, Thread 303: XXXX 1678850163798, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850163800 XXXX 1678850163800, Thread 303: XXXX 1678850163800, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850163899 XXXX 1678850163899, Thread 303: XXXX 1678850163899, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850163900 XXXX 1678850163900, Thread 303: XXXX 1678850163900, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850164007 XXXX 1678850164007, Thread 303: XXXX 1678850164007, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850164009 XXXX 1678850164009, Thread 303: XXXX 1678850164009, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850164108 XXXX 1678850164108, Thread 303: XXXX 1678850164108, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850164109 XXXX 1678850164109, Thread 303: XXXX 1678850164109, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850164209 XXXX 1678850164209, Thread 303: XXXX 1678850164209, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850164211 XXXX 1678850164211, Thread 303: XXXX 1678850164211, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850164311 XXXX 1678850164311, Thread 303: XXXX 1678850164311, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850164312 XXXX 1678850164312, Thread 303: XXXX 1678850164312, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850164411 XXXX 1678850164411, Thread 303: XXXX 1678850164411, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850164413 XXXX 1678850164413, Thread 303: XXXX 1678850164413, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850164514 XXXX 1678850164514, Thread 303: XXXX 1678850164514, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850164516 XXXX 1678850164516, Thread 303: XXXX 1678850164516, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850164614 XXXX 1678850164614, Thread 303: XXXX 1678850164614, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850164616 XXXX 1678850164616, Thread 303: XXXX 1678850164616, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850164716 XXXX 1678850164716, Thread 303: XXXX 1678850164716, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850164718 XXXX 1678850164718, Thread 303: XXXX 1678850164718, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850164815 XXXX 1678850164815, Thread 303: XXXX 1678850164815, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850164816 XXXX 1678850164816, Thread 303: XXXX 1678850164816, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850164917 XXXX 1678850164916, Thread 303: XXXX 1678850164916, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850164918 XXXX 1678850164918, Thread 303: XXXX 1678850164918, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850165018 XXXX 1678850165018, Thread 303: XXXX 1678850165018, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850165020 XXXX 1678850165020, Thread 303: XXXX 1678850165020, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850165119 XXXX 1678850165119, Thread 303: XXXX 1678850165119, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850165121 XXXX 1678850165121, Thread 303: XXXX 1678850165121, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850165221 XXXX 1678850165221, Thread 303: XXXX 1678850165221, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850165223 XXXX 1678850165223, Thread 303: XXXX 1678850165223, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850165323 XXXX 1678850165323, Thread 303: XXXX 1678850165323, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850165324 XXXX 1678850165324, Thread 303: XXXX 1678850165324, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850165424 XXXX 1678850165423, Thread 303: XXXX 1678850165423, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850165426 XXXX 1678850165426, Thread 303: XXXX 1678850165426, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850165524 XXXX 1678850165524, Thread 303: XXXX 1678850165524, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850165525 XXXX 1678850165525, Thread 303: XXXX 1678850165525, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850165627 XXXX 1678850165627, Thread 303: XXXX 1678850165627, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850165628 XXXX 1678850165628, Thread 303: XXXX 1678850165628, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850165727 XXXX 1678850165727, Thread 303: XXXX 1678850165727, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850165727 XXXX 1678850165727, Thread 303: XXXX 1678850165727, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850165828 XXXX 1678850165828, Thread 303: XXXX 1678850165828, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850165830 XXXX 1678850165830, Thread 303: XXXX 1678850165830, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850165928 XXXX 1678850165928, Thread 303: XXXX 1678850165928, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850165929 XXXX 1678850165929, Thread 303: XXXX 1678850165929, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850166029 XXXX 1678850166029, Thread 303: XXXX 1678850166029, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850166032 XXXX 1678850166032, Thread 303: XXXX 1678850166032, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850166131 XXXX 1678850166131, Thread 303: XXXX 1678850166131, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850166133 XXXX 1678850166133, Thread 303: XXXX 1678850166133, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850166231 XXXX 1678850166231, Thread 303: XXXX 1678850166231, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850166234 XXXX 1678850166234, Thread 303: XXXX 1678850166234, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850166333 XXXX 1678850166333, Thread 303: XXXX 1678850166333, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850166335 XXXX 1678850166335, Thread 303: XXXX 1678850166335, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850166434 XXXX 1678850166434, Thread 303: XXXX 1678850166434, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850166435 XXXX 1678850166435, Thread 303: XXXX 1678850166435, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850166533 XXXX 1678850166533, Thread 303: XXXX 1678850166533, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850166534 XXXX 1678850166534, Thread 303: XXXX 1678850166534, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850166634 XXXX 1678850166634, Thread 303: XXXX 1678850166634, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850166636 XXXX 1678850166636, Thread 303: XXXX 1678850166636, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850166734 XXXX 1678850166734, Thread 303: XXXX 1678850166734, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850166735 XXXX 1678850166735, Thread 303: XXXX 1678850166735, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850166834 XXXX 1678850166834, Thread 303: XXXX 1678850166834, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850166835 XXXX 1678850166835, Thread 303: XXXX 1678850166835, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850166936 XXXX 1678850166936, Thread 303: XXXX 1678850166936, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850166938 XXXX 1678850166938, Thread 303: XXXX 1678850166938, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850167037 XXXX 1678850167037, Thread 303: XXXX 1678850167037, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850167040 XXXX 1678850167040, Thread 303: XXXX 1678850167040, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850167139 XXXX 1678850167139, Thread 303: XXXX 1678850167139, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850167140 XXXX 1678850167140, Thread 303: XXXX 1678850167140, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850167240 XXXX 1678850167240, Thread 303: XXXX 1678850167240, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850167242 XXXX 1678850167242, Thread 303: XXXX 1678850167242, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850167341 XXXX 1678850167341, Thread 303: XXXX 1678850167341, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850167341 XXXX 1678850167341, Thread 303: XXXX 1678850167341, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850167443 XXXX 1678850167443, Thread 303: XXXX 1678850167443, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850167445 XXXX 1678850167445, Thread 303: XXXX 1678850167445, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850167544 XXXX 1678850167544, Thread 303: XXXX 1678850167544, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850167546 XXXX 1678850167546, Thread 303: XXXX 1678850167546, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850167644 XXXX 1678850167644, Thread 303: XXXX 1678850167644, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850167646 XXXX 1678850167646, Thread 303: XXXX 1678850167646, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850167744 XXXX 1678850167744, Thread 303: XXXX 1678850167744, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850167746 XXXX 1678850167746, Thread 303: XXXX 1678850167746, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850167846 XXXX 1678850167846, Thread 303: XXXX 1678850167846, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850167847 XXXX 1678850167847, Thread 303: XXXX 1678850167847, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850167947 XXXX 1678850167947, Thread 303: XXXX 1678850167947, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850167949 XXXX 1678850167949, Thread 303: XXXX 1678850167949, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850168049 XXXX 1678850168049, Thread 303: XXXX 1678850168049, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850168051 XXXX 1678850168051, Thread 303: XXXX 1678850168051, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850168150 XXXX 1678850168149, Thread 303: XXXX 1678850168149, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850168151 XXXX 1678850168151, Thread 303: XXXX 1678850168151, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850168249 XXXX 1678850168249, Thread 303: XXXX 1678850168249, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850168250 XXXX 1678850168250, Thread 303: XXXX 1678850168250, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850168353 XXXX 1678850168353, Thread 303: XXXX 1678850168353, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850168355 XXXX 1678850168355, Thread 303: XXXX 1678850168355, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850168453 XXXX 1678850168453, Thread 303: XXXX 1678850168453, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850168454 XXXX 1678850168454, Thread 303: XXXX 1678850168454, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850168556 XXXX 1678850168556, Thread 303: XXXX 1678850168556, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850168558 XXXX 1678850168558, Thread 303: XXXX 1678850168558, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850168657 XXXX 1678850168657, Thread 303: XXXX 1678850168657, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850168659 XXXX 1678850168659, Thread 303: XXXX 1678850168659, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850168758 XXXX 1678850168758, Thread 303: XXXX 1678850168758, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850168761 XXXX 1678850168761, Thread 303: XXXX 1678850168761, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850168859 XXXX 1678850168859, Thread 303: XXXX 1678850168859, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850168861 XXXX 1678850168861, Thread 303: XXXX 1678850168861, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850168960 XXXX 1678850168960, Thread 303: XXXX 1678850168960, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850168962 XXXX 1678850168962, Thread 303: XXXX 1678850168962, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850169060 XXXX 1678850169060, Thread 303: XXXX 1678850169060, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850169060 XXXX 1678850169060, Thread 303: XXXX 1678850169060, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850169160 XXXX 1678850169160, Thread 303: XXXX 1678850169160, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850169162 XXXX 1678850169162, Thread 303: XXXX 1678850169162, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850169262 XXXX 1678850169262, Thread 303: XXXX 1678850169262, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850169263 XXXX 1678850169263, Thread 303: XXXX 1678850169263, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850169369 XXXX 1678850169369, Thread 303: XXXX 1678850169369, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850169371 XXXX 1678850169371, Thread 303: XXXX 1678850169371, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850169468 XXXX 1678850169468, Thread 303: XXXX 1678850169468, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850169470 XXXX 1678850169470, Thread 303: XXXX 1678850169470, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850169568 XXXX 1678850169568, Thread 303: XXXX 1678850169568, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850169570 XXXX 1678850169570, Thread 303: XXXX 1678850169570, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850169669 XXXX 1678850169669, Thread 303: XXXX 1678850169669, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850169670 XXXX 1678850169670, Thread 303: XXXX 1678850169670, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850169770 XXXX 1678850169770, Thread 303: XXXX 1678850169770, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850169773 XXXX 1678850169773, Thread 303: XXXX 1678850169773, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850169873 XXXX 1678850169873, Thread 303: XXXX 1678850169873, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850169874 XXXX 1678850169874, Thread 303: XXXX 1678850169874, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850169973 XXXX 1678850169973, Thread 303: XXXX 1678850169973, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850169976 XXXX 1678850169976, Thread 303: XXXX 1678850169976, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850170074 XXXX 1678850170074, Thread 303: XXXX 1678850170074, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850170077 XXXX 1678850170077, Thread 303: XXXX 1678850170077, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850170176 XXXX 1678850170176, Thread 303: XXXX 1678850170176, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850170177 XXXX 1678850170177, Thread 303: XXXX 1678850170177, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850170277 XXXX 1678850170277, Thread 303: XXXX 1678850170277, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850170279 XXXX 1678850170279, Thread 303: XXXX 1678850170279, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850170377 XXXX 1678850170377, Thread 303: XXXX 1678850170377, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850170378 XXXX 1678850170378, Thread 303: XXXX 1678850170378, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850170479 XXXX 1678850170479, Thread 303: XXXX 1678850170479, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850170480 XXXX 1678850170480, Thread 303: XXXX 1678850170480, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850170580 XXXX 1678850170580, Thread 303: XXXX 1678850170580, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850170582 XXXX 1678850170582, Thread 303: XXXX 1678850170582, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850170680 XXXX 1678850170680, Thread 303: XXXX 1678850170680, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850170682 XXXX 1678850170682, Thread 303: XXXX 1678850170682, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850170780 XXXX 1678850170780, Thread 303: XXXX 1678850170780, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850170782 XXXX 1678850170782, Thread 303: XXXX 1678850170782, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850170881 XXXX 1678850170881, Thread 303: XXXX 1678850170881, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850170884 XXXX 1678850170884, Thread 303: XXXX 1678850170884, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850170983 XXXX 1678850170983, Thread 303: XXXX 1678850170983, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850170984 XXXX 1678850170984, Thread 303: XXXX 1678850170984, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850171083 XXXX 1678850171083, Thread 303: XXXX 1678850171083, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850171084 XXXX 1678850171084, Thread 303: XXXX 1678850171084, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850171190 XXXX 1678850171190, Thread 303: XXXX 1678850171190, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850171192 XXXX 1678850171192, Thread 303: XXXX 1678850171192, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850171291 XXXX 1678850171291, Thread 303: XXXX 1678850171291, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850171292 XXXX 1678850171292, Thread 303: XXXX 1678850171292, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850171392 XXXX 1678850171392, Thread 303: XXXX 1678850171392, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850171394 XXXX 1678850171394, Thread 303: XXXX 1678850171394, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850171493 XXXX 1678850171493, Thread 303: XXXX 1678850171493, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850171495 XXXX 1678850171495, Thread 303: XXXX 1678850171495, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850171594 XXXX 1678850171594, Thread 303: XXXX 1678850171594, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850171596 XXXX 1678850171596, Thread 303: XXXX 1678850171596, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850171697 XXXX 1678850171697, Thread 303: XXXX 1678850171697, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850171698 XXXX 1678850171698, Thread 303: XXXX 1678850171698, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850171798 XXXX 1678850171798, Thread 303: XXXX 1678850171798, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850171800 XXXX 1678850171800, Thread 303: XXXX 1678850171800, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850171898 XXXX 1678850171898, Thread 303: XXXX 1678850171898, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850171899 XXXX 1678850171899, Thread 303: XXXX 1678850171899, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850171999 XXXX 1678850171999, Thread 303: XXXX 1678850171999, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850172001 XXXX 1678850172001, Thread 303: XXXX 1678850172001, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850172101 XXXX 1678850172101, Thread 303: XXXX 1678850172101, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850172103 XXXX 1678850172103, Thread 303: XXXX 1678850172103, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850172203 XXXX 1678850172203, Thread 303: XXXX 1678850172203, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850172204 XXXX 1678850172204, Thread 303: XXXX 1678850172204, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850172304 XXXX 1678850172304, Thread 303: XXXX 1678850172304, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850172305 XXXX 1678850172305, Thread 303: XXXX 1678850172305, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850172410 XXXX 1678850172410, Thread 303: XXXX 1678850172410, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850172411 XXXX 1678850172411, Thread 303: XXXX 1678850172411, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850172510 XXXX 1678850172510, Thread 303: XXXX 1678850172510, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850172512 XXXX 1678850172512, Thread 303: XXXX 1678850172512, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850172610 XXXX 1678850172610, Thread 303: XXXX 1678850172610, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850172612 XXXX 1678850172612, Thread 303: XXXX 1678850172612, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850172711 XXXX 1678850172711, Thread 303: XXXX 1678850172711, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850172712 XXXX 1678850172712, Thread 303: XXXX 1678850172712, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850172811 XXXX 1678850172811, Thread 303: XXXX 1678850172811, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850172813 XXXX 1678850172813, Thread 303: XXXX 1678850172813, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850172911 XXXX 1678850172911, Thread 303: XXXX 1678850172911, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850172913 XXXX 1678850172913, Thread 303: XXXX 1678850172913, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850173012 XXXX 1678850173012, Thread 303: XXXX 1678850173012, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850173014 XXXX 1678850173014, Thread 303: XXXX 1678850173014, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850173118 XXXX 1678850173118, Thread 303: XXXX 1678850173118, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850173119 XXXX 1678850173119, Thread 303: XXXX 1678850173119, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850173217 XXXX 1678850173217, Thread 303: XXXX 1678850173217, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850173219 XXXX 1678850173219, Thread 303: XXXX 1678850173219, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850173319 XXXX 1678850173319, Thread 303: XXXX 1678850173319, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850173320 XXXX 1678850173320, Thread 303: XXXX 1678850173320, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850173419 XXXX 1678850173419, Thread 303: XXXX 1678850173419, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850173422 XXXX 1678850173422, Thread 303: XXXX 1678850173422, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850173522 XXXX 1678850173522, Thread 303: XXXX 1678850173522, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850173524 XXXX 1678850173524, Thread 303: XXXX 1678850173524, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850173622 XXXX 1678850173622, Thread 303: XXXX 1678850173622, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850173623 XXXX 1678850173623, Thread 303: XXXX 1678850173623, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850173722 XXXX 1678850173722, Thread 303: XXXX 1678850173722, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850173724 XXXX 1678850173724, Thread 303: XXXX 1678850173724, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850173822 XXXX 1678850173822, Thread 303: XXXX 1678850173822, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850173823 XXXX 1678850173823, Thread 303: XXXX 1678850173823, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850173922 XXXX 1678850173922, Thread 303: XXXX 1678850173922, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850173923 XXXX 1678850173923, Thread 303: XXXX 1678850173923, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850174023 XXXX 1678850174023, Thread 303: XXXX 1678850174023, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850174025 XXXX 1678850174025, Thread 303: XXXX 1678850174025, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850174124 XXXX 1678850174124, Thread 303: XXXX 1678850174124, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850174125 XXXX 1678850174125, Thread 303: XXXX 1678850174125, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850174224 XXXX 1678850174224, Thread 303: XXXX 1678850174224, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850174225 XXXX 1678850174225, Thread 303: XXXX 1678850174225, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850174335 XXXX 1678850174335, Thread 303: XXXX 1678850174335, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850174337 XXXX 1678850174337, Thread 303: XXXX 1678850174337, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850174437 XXXX 1678850174437, Thread 303: XXXX 1678850174437, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850174439 XXXX 1678850174438, Thread 303: XXXX 1678850174438, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850174538 XXXX 1678850174538, Thread 303: XXXX 1678850174538, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850174540 XXXX 1678850174540, Thread 303: XXXX 1678850174540, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850174639 XXXX 1678850174639, Thread 303: XXXX 1678850174639, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850174642 XXXX 1678850174642, Thread 303: XXXX 1678850174642, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850174740 XXXX 1678850174740, Thread 303: XXXX 1678850174740, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850174741 XXXX 1678850174741, Thread 303: XXXX 1678850174741, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850174840 XXXX 1678850174840, Thread 303: XXXX 1678850174840, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850174841 XXXX 1678850174841, Thread 303: XXXX 1678850174841, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850174941 XXXX 1678850174941, Thread 303: XXXX 1678850174941, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850174942 XXXX 1678850174942, Thread 303: XXXX 1678850174942, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850175042 XXXX 1678850175042, Thread 303: XXXX 1678850175042, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850175043 XXXX 1678850175043, Thread 303: XXXX 1678850175043, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850175144 XXXX 1678850175144, Thread 303: XXXX 1678850175144, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850175145 XXXX 1678850175145, Thread 303: XXXX 1678850175145, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850175245 XXXX 1678850175245, Thread 303: XXXX 1678850175245, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850175247 XXXX 1678850175247, Thread 303: XXXX 1678850175247, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850175355 XXXX 1678850175355, Thread 303: XXXX 1678850175355, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850175355 XXXX 1678850175355, Thread 303: XXXX 1678850175355, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850175458 XXXX 1678850175458, Thread 303: XXXX 1678850175458, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850175460 XXXX 1678850175460, Thread 303: XXXX 1678850175460, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850175559 XXXX 1678850175559, Thread 303: XXXX 1678850175559, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850175560 XXXX 1678850175560, Thread 303: XXXX 1678850175560, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850175664 XXXX 1678850175664, Thread 303: XXXX 1678850175664, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850175666 XXXX 1678850175666, Thread 303: XXXX 1678850175666, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850175767 XXXX 1678850175767, Thread 303: XXXX 1678850175767, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850175768 XXXX 1678850175768, Thread 303: XXXX 1678850175768, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850175867 XXXX 1678850175867, Thread 303: XXXX 1678850175867, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850175868 XXXX 1678850175868, Thread 303: XXXX 1678850175868, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850175969 XXXX 1678850175969, Thread 303: XXXX 1678850175969, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850175971 XXXX 1678850175971, Thread 303: XXXX 1678850175971, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850176068 XXXX 1678850176068, Thread 303: XXXX 1678850176068, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850176070 XXXX 1678850176070, Thread 303: XXXX 1678850176070, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850176177 XXXX 1678850176177, Thread 303: XXXX 1678850176177, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850176179 XXXX 1678850176179, Thread 303: XXXX 1678850176179, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850176279 XXXX 1678850176279, Thread 303: XXXX 1678850176279, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850176280 XXXX 1678850176280, Thread 303: XXXX 1678850176280, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850176379 XXXX 1678850176378, Thread 303: XXXX 1678850176378, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850176381 XXXX 1678850176381, Thread 303: XXXX 1678850176381, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850176479 XXXX 1678850176479, Thread 303: XXXX 1678850176479, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850176481 XXXX 1678850176481, Thread 303: XXXX 1678850176481, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850176581 XXXX 1678850176581, Thread 303: XXXX 1678850176581, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850176582 XXXX 1678850176582, Thread 303: XXXX 1678850176582, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850176686 XXXX 1678850176686, Thread 303: XXXX 1678850176686, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850176687 XXXX 1678850176687, Thread 303: XXXX 1678850176687, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850176785 XXXX 1678850176785, Thread 303: XXXX 1678850176785, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850176786 XXXX 1678850176786, Thread 303: XXXX 1678850176786, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850176887 XXXX 1678850176887, Thread 303: XXXX 1678850176887, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850176889 XXXX 1678850176889, Thread 303: XXXX 1678850176889, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850176987 XXXX 1678850176987, Thread 303: XXXX 1678850176987, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850176989 XXXX 1678850176989, Thread 303: XXXX 1678850176989, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850177088 XXXX 1678850177088, Thread 303: XXXX 1678850177088, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850177089 XXXX 1678850177089, Thread 303: XXXX 1678850177089, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850177188 XXXX 1678850177188, Thread 303: XXXX 1678850177188, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850177191 XXXX 1678850177191, Thread 303: XXXX 1678850177191, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850177289 XXXX 1678850177289, Thread 303: XXXX 1678850177289, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850177289 XXXX 1678850177289, Thread 303: XXXX 1678850177289, Exiting Thread 303: Commands::runScriptBasic  
+303 1678850177390 XXXX 1678850177390, Thread 303: XXXX 1678850177390, Entering Thread 303: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+303 1678850177391 XXXX 1678850177391, Thread 303: XXXX 1678850177391, Exiting Thread 303: Commands::runScriptBasic  
+
+303 1678850177395 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F46K42 Pre:DebugReadTargetMemory
+303 1678850177395 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F46K42 Payload
+303 1678850177395 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F46K42 Emulation
+303 1678850177395 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F46K42 385a
+303 1678850177395 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F46K42 385a
+303 1678850177395 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F46K42 Length = 4
+303 1678850177395 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F46K42 Payload End
+303 1678850177395 XXXX 1678850177395, Thread 303: XXXX 1678850177395, Entering Thread 303: Commands::runScriptWithUpload, script name = ReadEmu  
+303 1678850177396 XXXX 1678850177396, Thread 303: XXXX 1678850177396, Entering Thread 303: ToolCommUsb::readTransfer, sideData is 0x25 bytes long, transferDataLength is 0x4 bytes long  
+303 1678850179399 XXXX 1678850179399, Thread 303: fatal: rx is dead 
+303 1678850179400 XXXX 1678850179400, Thread 303: XXXX 1678850179400, Entering Thread 303: ToolCommUsb::recoverFromProtocolError, type = SCRIPT_UPLOAD  
+303 1678850179401 XXXX 1678850179401, Thread 303: Send Abort Script Engine Command 
+303 1678850179401 XXXX 1678850179401, Thread 303: XXXX 1678850179401, Entering Thread 303: ToolCommUsb::killScriptEngine  
+303 1678850179403 XXXX 1678850179403, Thread 303: XXXX 1678850179403, Exiting Thread 303: ToolCommUsb::killScriptEngine  
+303 1678850179403 XXXX 1678850179403, Thread 303: Successfully Sent Abort Script EngineCommand 
+303 1678850179403 XXXX 1678850179403, Thread 303: Send flush data upload Command 
+303 1678850179404 XXXX 1678850179404, Thread 303: Successfully Sent flush data upload Command 
+303 1678850179404 XXXX 1678850179404, Thread 303: Exiting recoverFromProtocolError 
+303 1678850179404 XXXX 1678850179404, Thread 303: XXXX 1678850179404, Exiting Thread 303: ToolCommUsb::recoverFromProtocolError,  

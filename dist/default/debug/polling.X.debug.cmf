@@ -1,0 +1,968 @@
+%CMF
+# %PSECTS Section
+# For each object file, details of its psects are enumerated here.
+# The begining of the section is indicated by %PSECTS.  The first
+# line indicates the name of the first object file, e.g.
+#    $foo.obj
+# Each line that follows describes a psect in that object file, until
+# the next object file.  The lines that describe a psect have the
+# format:
+#    <psect name> <class name> <space> <link address> <load addresses> <length> <delta> <reloc>
+# All addresses and the length are given in unqualified hexadecimal
+# in delta units.  Any other numeric values are decimal.
+%PSECTS
+$C:\Users\AULASI~1\AppData\Local\Temp\xcAsivk.o
+idloc IDLOC 5 200000 200000 10 1 1
+init CODE 0 1A 1A 4 1 2
+reset_vec CODE 0 0 0 6 1 2
+config CONFIG 4 300000 300000 A 1 1
+$dist/default/debug\polling.X.debug.o
+ivt0x8 CODE 0 8 8 12 1 2
+cinit CODE 0 16C6 16C6 1E 1 2
+idloc IDLOC 5 200000 200000 10 1 1
+text0 CODE 0 11F8 11F8 BE 1 2
+text1 CODE 0 1764 1764 14 1 2
+text2 CODE 0 1778 1778 14 1 2
+text3 CODE 0 178C 178C 14 1 2
+text4 CODE 0 1008 1008 1F0 1 2
+text5 CODE 0 1702 1702 1A 1 2
+text6 CODE 0 163E 163E 3E 1 2
+text7 CODE 0 135E 135E 96 1 2
+text8 CODE 0 150E 150E 82 1 2
+text9 CODE 0 174E 174E 16 1 2
+text10 CODE 0 15EC 15EC 52 1 2
+text11 CODE 0 167C 167C 26 1 2
+text12 CODE 0 13F4 13F4 8E 1 2
+text13 CODE 0 17A0 17A0 A 1 2
+text14 CODE 0 17AA 17AA A 1 2
+text15 CODE 0 17B4 17B4 A 1 2
+text16 CODE 0 17BE 17BE A 1 2
+text17 CODE 0 17C8 17C8 A 1 2
+text18 CODE 0 16E4 16E4 1E 1 2
+text19 CODE 0 171C 171C 1A 1 2
+text20 CODE 0 16A2 16A2 24 1 2
+text21 CODE 0 12B6 12B6 A8 1 2
+text22 CODE 0 1736 1736 18 1 2
+text23 CODE 0 17E8 17E8 4 1 2
+text24 CODE 0 17D2 17D2 8 1 2
+text25 CODE 0 1590 1590 5C 1 2
+text26 CODE 0 1482 1482 8C 1 2
+text27 CODE 0 17E2 17E2 6 1 2
+text28 CODE 0 17DA 17DA 8 1 2
+nvBANK0 BANK0 1 AA AA A 1 1
+cstackCOMRAM COMRAM 1 E E 8 1 1
+cstackBANK0 BANK0 1 60 60 4A 1 1
+smallconst SMALLCONST 0 1000 1000 8 1 2
+bssCOMRAM COMRAM 1 1 1 D 1 1
+config CONFIG 4 300000 300000 A 1 1
+# %UNUSED Section
+# This section enumerates the unused ranges of each CLASS. Each entry
+# is described on a single line as follows:
+#    <class name> <range> <delta>
+# Addresses given in the range are in hexadecimal and units of delta.
+%UNUSED
+RAM B4-FFF 1
+SFR 3800-3FFF 1
+BANK0 B4-FF 1
+BANK1 100-1FF 1
+BANK2 200-2FF 1
+BANK3 300-3FF 1
+BANK4 400-4FF 1
+BANK5 500-5FF 1
+BANK6 600-6FF 1
+BANK7 700-7FF 1
+BANK8 800-8FF 1
+BANK9 900-9FF 1
+CONST 6-7 1
+CONST 1E-FFF 1
+CONST 17EC-FFFF 1
+SMALLCONST 17EC-FFFF 1
+CODE 6-7 1
+CODE 1E-FFF 1
+CODE 17EC-FFFF 1
+BANK10 A00-AFF 1
+BANK11 B00-BFF 1
+BANK12 C00-CFF 1
+BANK13 D00-DFF 1
+BANK14 E00-EFF 1
+BANK15 F00-FFF 1
+BIGRAM 16-5F 1
+BIGRAM B4-FFF 1
+BIGSFR 3800-3FFF 1
+COMRAM 16-5F 1
+EEDATA 310000-3103FF 1
+MEDIUMCONST 17EC-FFFF 1
+# %LINETAB Section
+# This section enumerates the file/line to address mappings.
+# The beginning of the section is indicated by %LINETAB.
+# The first line indicates the name of the first object file, e.g.
+#   $foo.obj
+# Each line that follows describes a single mapping until the next
+# object file.  Mappings have the following format:
+#    <address> <psect name> <class name> ><line number>:<file name>
+# The address is absolute and given given in unqualified hex 
+# in delta units of the psect. All mappings within an object file
+# are in ascending order of addresses.
+# All other numeric values are in decimal.
+%LINETAB
+$dist/default/debug\polling.X.debug.o
+17DA text28 CODE >210:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+17DA text28 CODE >213:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+17E0 text28 CODE >217:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+17E2 text27 CODE >219:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+17E2 text27 CODE >222:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+17E6 text27 CODE >225:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+1482 text26 CODE >58:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/interrupt_manager.c
+148E text26 CODE >61:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/interrupt_manager.c
+14AC text26 CODE >63:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/interrupt_manager.c
+14C6 text26 CODE >64:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/interrupt_manager.c
+14CA text26 CODE >65:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/interrupt_manager.c
+14E6 text26 CODE >67:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/interrupt_manager.c
+1500 text26 CODE >73:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/interrupt_manager.c
+1590 text25 CODE >62:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/adcc.c
+1590 text25 CODE >66:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/adcc.c
+1596 text25 CODE >68:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/adcc.c
+159A text25 CODE >70:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/adcc.c
+159E text25 CODE >72:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/adcc.c
+15A2 text25 CODE >74:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/adcc.c
+15A6 text25 CODE >76:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/adcc.c
+15AA text25 CODE >78:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/adcc.c
+15AE text25 CODE >80:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/adcc.c
+15B2 text25 CODE >82:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/adcc.c
+15B6 text25 CODE >84:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/adcc.c
+15BA text25 CODE >86:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/adcc.c
+15BE text25 CODE >88:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/adcc.c
+15C2 text25 CODE >90:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/adcc.c
+15C6 text25 CODE >92:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/adcc.c
+15CA text25 CODE >94:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/adcc.c
+15CE text25 CODE >96:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/adcc.c
+15D2 text25 CODE >98:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/adcc.c
+15D6 text25 CODE >100:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/adcc.c
+15DA text25 CODE >102:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/adcc.c
+15DE text25 CODE >104:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/adcc.c
+15E2 text25 CODE >106:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/adcc.c
+15E6 text25 CODE >108:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/adcc.c
+15EA text25 CODE >111:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/adcc.c
+17D2 text24 CODE >58:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/fvr.c
+17D2 text24 CODE >61:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/fvr.c
+17D8 text24 CODE >62:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/fvr.c
+17E8 text23 CODE >52:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/interrupt_manager.c
+17E8 text23 CODE >55:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/interrupt_manager.c
+17EA text23 CODE >56:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/interrupt_manager.c
+1736 text22 CODE >63:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/mcc.c
+1736 text22 CODE >66:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/mcc.c
+173C text22 CODE >68:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/mcc.c
+1740 text22 CODE >70:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/mcc.c
+1744 text22 CODE >72:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/mcc.c
+1748 text22 CODE >74:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/mcc.c
+174C text22 CODE >75:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/mcc.c
+12B6 text21 CODE >55:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/pin_manager.c
+12B6 text21 CODE >60:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/pin_manager.c
+12BA text21 CODE >61:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/pin_manager.c
+12BE text21 CODE >62:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/pin_manager.c
+12C2 text21 CODE >63:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/pin_manager.c
+12C6 text21 CODE >64:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/pin_manager.c
+12CA text21 CODE >69:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/pin_manager.c
+12CE text21 CODE >70:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/pin_manager.c
+12D0 text21 CODE >71:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/pin_manager.c
+12D4 text21 CODE >72:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/pin_manager.c
+12D8 text21 CODE >73:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/pin_manager.c
+12DC text21 CODE >78:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/pin_manager.c
+12E0 text21 CODE >79:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/pin_manager.c
+12E4 text21 CODE >80:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/pin_manager.c
+12E6 text21 CODE >81:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/pin_manager.c
+12EA text21 CODE >82:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/pin_manager.c
+12EC text21 CODE >87:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/pin_manager.c
+12F0 text21 CODE >88:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/pin_manager.c
+12F4 text21 CODE >89:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/pin_manager.c
+12F8 text21 CODE >90:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/pin_manager.c
+12FC text21 CODE >91:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/pin_manager.c
+1300 text21 CODE >96:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/pin_manager.c
+1304 text21 CODE >97:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/pin_manager.c
+1308 text21 CODE >98:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/pin_manager.c
+130C text21 CODE >99:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/pin_manager.c
+1310 text21 CODE >100:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/pin_manager.c
+1314 text21 CODE >101:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/pin_manager.c
+1318 text21 CODE >106:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/pin_manager.c
+131C text21 CODE >107:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/pin_manager.c
+1320 text21 CODE >108:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/pin_manager.c
+1324 text21 CODE >109:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/pin_manager.c
+1328 text21 CODE >110:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/pin_manager.c
+132C text21 CODE >115:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/pin_manager.c
+132E text21 CODE >116:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/pin_manager.c
+1330 text21 CODE >117:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/pin_manager.c
+1332 text21 CODE >118:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/pin_manager.c
+1334 text21 CODE >119:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/pin_manager.c
+1338 text21 CODE >124:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/pin_manager.c
+133A text21 CODE >125:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/pin_manager.c
+133C text21 CODE >126:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/pin_manager.c
+133E text21 CODE >127:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/pin_manager.c
+1340 text21 CODE >128:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/pin_manager.c
+1344 text21 CODE >137:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/pin_manager.c
+1348 text21 CODE >138:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/pin_manager.c
+134C text21 CODE >139:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/pin_manager.c
+1350 text21 CODE >140:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/pin_manager.c
+1354 text21 CODE >141:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/pin_manager.c
+1358 text21 CODE >142:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/pin_manager.c
+135C text21 CODE >143:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/pin_manager.c
+16A2 text20 CODE >77:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/mcc.c
+16A2 text20 CODE >80:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/mcc.c
+16A8 text20 CODE >82:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/mcc.c
+16AC text20 CODE >84:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/mcc.c
+16B0 text20 CODE >86:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/mcc.c
+16B4 text20 CODE >88:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/mcc.c
+16B8 text20 CODE >90:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/mcc.c
+16BC text20 CODE >92:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/mcc.c
+16C0 text20 CODE >94:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/mcc.c
+16C4 text20 CODE >95:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/mcc.c
+171C text19 CODE >64:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/spi1.c
+171C text19 CODE >67:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/spi1.c
+1722 text19 CODE >69:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/spi1.c
+1726 text19 CODE >71:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/spi1.c
+172A text19 CODE >73:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/spi1.c
+172E text19 CODE >75:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/spi1.c
+1732 text19 CODE >76:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/spi1.c
+1734 text19 CODE >77:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/spi1.c
+16E4 text18 CODE >62:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/tmr2.c
+16E4 text18 CODE >67:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/tmr2.c
+16E8 text18 CODE >70:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/tmr2.c
+16EC text18 CODE >73:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/tmr2.c
+16F0 text18 CODE >76:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/tmr2.c
+16F4 text18 CODE >79:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/tmr2.c
+16F8 text18 CODE >82:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/tmr2.c
+16FC text18 CODE >85:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/tmr2.c
+1700 text18 CODE >86:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/tmr2.c
+17C8 text17 CODE >206:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+17C8 text17 CODE >207:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+17D0 text17 CODE >208:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+17BE text16 CODE >198:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+17BE text16 CODE >199:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+17C6 text16 CODE >200:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+17B4 text15 CODE >229:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+17B4 text15 CODE >230:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+17BC text15 CODE >231:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+17AA text14 CODE >202:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+17AA text14 CODE >203:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+17B2 text14 CODE >204:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+17A0 text13 CODE >233:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+17A0 text13 CODE >234:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+17A8 text13 CODE >235:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+13F4 text12 CODE >66:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+13F4 text12 CODE >69:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+13F8 text12 CODE >70:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+1404 text12 CODE >71:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+1408 text12 CODE >72:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+1414 text12 CODE >77:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+141A text12 CODE >80:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+141E text12 CODE >83:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+1422 text12 CODE >86:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+1426 text12 CODE >89:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+142A text12 CODE >92:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+142E text12 CODE >95:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+1432 text12 CODE >98:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+1436 text12 CODE >101:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+143A text12 CODE >104:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+143E text12 CODE >107:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+1442 text12 CODE >110:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+1446 text12 CODE >113:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+144A text12 CODE >116:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+144E text12 CODE >119:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+1452 text12 CODE >122:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+145E text12 CODE >123:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+146A text12 CODE >124:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+1476 text12 CODE >126:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+147A text12 CODE >129:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+147E text12 CODE >131:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+1480 text12 CODE >132:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+167C text11 CODE >50:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/mcc.c
+167C text11 CODE >52:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/mcc.c
+1680 text11 CODE >53:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/mcc.c
+1684 text11 CODE >54:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/mcc.c
+1688 text11 CODE >55:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/mcc.c
+168C text11 CODE >56:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/mcc.c
+1690 text11 CODE >57:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/mcc.c
+1694 text11 CODE >58:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/mcc.c
+1698 text11 CODE >59:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/mcc.c
+169C text11 CODE >60:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/mcc.c
+16A0 text11 CODE >61:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/mcc.c
+15EC text10 CODE >21:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrostimers.c
+15EC text10 CODE >25:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrostimers.c
+15FC text10 CODE >27:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrostimers.c
+160C text10 CODE >29:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrostimers.c
+163C text10 CODE >31:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrostimers.c
+174E text9 CODE >134:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+174E text9 CODE >136:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+1762 text9 CODE >137:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+150E text8 CODE >7:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrausart.c
+150E text8 CODE >8:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrausart.c
+1522 text8 CODE >9:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrausart.c
+1536 text8 CODE >10:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrausart.c
+154A text8 CODE >11:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrausart.c
+155A text8 CODE >12:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrausart.c
+156A text8 CODE >13:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrausart.c
+157A text8 CODE >14:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrausart.c
+158E text8 CODE >15:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrausart.c
+135E text7 CODE >10:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrospi.c
+135E text7 CODE >11:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrospi.c
+1372 text7 CODE >12:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrospi.c
+1382 text7 CODE >13:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrospi.c
+1392 text7 CODE >14:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrospi.c
+13A2 text7 CODE >15:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrospi.c
+13B2 text7 CODE >16:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrospi.c
+13C6 text7 CODE >17:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrospi.c
+13DA text7 CODE >18:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrospi.c
+13EE text7 CODE >19:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrospi.c
+13F0 text7 CODE >20:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrospi.c
+13F2 text7 CODE >21:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrospi.c
+163E text6 CODE >3:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\cola.c
+163E text6 CODE >5:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\cola.c
+1652 text6 CODE >6:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\cola.c
+1666 text6 CODE >7:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\cola.c
+167A text6 CODE >8:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\cola.c
+1702 text5 CODE >178:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+1704 text5 CODE >180:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+1704 text5 CODE >182:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+1714 text5 CODE >184:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+171A text5 CODE >185:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\mcc_generated_files/uart1.c
+1008 text4 CODE >17:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrausart.c
+1008 text4 CODE >18:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrausart.c
+101A text4 CODE >19:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrausart.c
+102C text4 CODE >20:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrausart.c
+1030 text4 CODE >23:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrausart.c
+104E text4 CODE >24:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrausart.c
+1062 text4 CODE >25:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrausart.c
+1066 text4 CODE >28:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrausart.c
+107E text4 CODE >33:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrausart.c
+1092 text4 CODE >34:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrausart.c
+10BC text4 CODE >35:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrausart.c
+10C0 text4 CODE >42:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrausart.c
+10D4 text4 CODE >43:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrausart.c
+10FE text4 CODE >44:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrausart.c
+1102 text4 CODE >51:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrausart.c
+1116 text4 CODE >52:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrausart.c
+1140 text4 CODE >53:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrausart.c
+1144 text4 CODE >59:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrausart.c
+1162 text4 CODE >60:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrausart.c
+1172 text4 CODE >61:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrausart.c
+1186 text4 CODE >62:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrausart.c
+118A text4 CODE >64:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrausart.c
+11A2 text4 CODE >68:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrausart.c
+11BE text4 CODE >68:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrausart.c
+11CC text4 CODE >68:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrausart.c
+11D4 text4 CODE >68:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrausart.c
+11DC text4 CODE >68:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrausart.c
+11E4 text4 CODE >68:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrausart.c
+11EC text4 CODE >68:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrausart.c
+11F6 text4 CODE >69:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrausart.c
+178C text3 CODE >23:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrospi.c
+178C text3 CODE >24:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrospi.c
+179E text3 CODE >25:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrospi.c
+1778 text2 CODE >26:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrospi.c
+1778 text2 CODE >27:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrospi.c
+178A text2 CODE >28:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrospi.c
+1764 text1 CODE >29:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrospi.c
+1764 text1 CODE >30:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrospi.c
+1776 text1 CODE >31:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\nuestrospi.c
+11F8 text0 CODE >61:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\main.c
+11F8 text0 CODE >63:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\main.c
+11FC text0 CODE >64:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\main.c
+11FE text0 CODE >66:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\main.c
+1202 text0 CODE >67:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\main.c
+1206 text0 CODE >68:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\main.c
+120A text0 CODE >69:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\main.c
+120E text0 CODE >70:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\main.c
+1212 text0 CODE >72:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\main.c
+1226 text0 CODE >74:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\main.c
+1232 text0 CODE >75:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\main.c
+123E text0 CODE >77:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\main.c
+124A text0 CODE >78:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\main.c
+125A text0 CODE >79:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\main.c
+126A text0 CODE >80:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\main.c
+127A text0 CODE >82:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\main.c
+1286 text0 CODE >83:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\main.c
+128A text0 CODE >157:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\main.c
+129E text0 CODE >158:C:\Users\aulasingenieria\Downloads\PINI\P2A\polling.X\main.c
+16C6 cinit CODE >18388:C:\Users\AULASI~1\AppData\Local\Temp\xcAsivk.s
+16C6 cinit CODE >18390:C:\Users\AULASI~1\AppData\Local\Temp\xcAsivk.s
+16C6 cinit CODE >18393:C:\Users\AULASI~1\AppData\Local\Temp\xcAsivk.s
+16C6 cinit CODE >18439:C:\Users\AULASI~1\AppData\Local\Temp\xcAsivk.s
+16CA cinit CODE >18440:C:\Users\AULASI~1\AppData\Local\Temp\xcAsivk.s
+16CC cinit CODE >18441:C:\Users\AULASI~1\AppData\Local\Temp\xcAsivk.s
+16CC cinit CODE >18442:C:\Users\AULASI~1\AppData\Local\Temp\xcAsivk.s
+16CE cinit CODE >18443:C:\Users\AULASI~1\AppData\Local\Temp\xcAsivk.s
+16D0 cinit CODE >18444:C:\Users\AULASI~1\AppData\Local\Temp\xcAsivk.s
+16D2 cinit CODE >18452:C:\Users\AULASI~1\AppData\Local\Temp\xcAsivk.s
+16D4 cinit CODE >18453:C:\Users\AULASI~1\AppData\Local\Temp\xcAsivk.s
+16D6 cinit CODE >18454:C:\Users\AULASI~1\AppData\Local\Temp\xcAsivk.s
+16D8 cinit CODE >18455:C:\Users\AULASI~1\AppData\Local\Temp\xcAsivk.s
+16DA cinit CODE >18456:C:\Users\AULASI~1\AppData\Local\Temp\xcAsivk.s
+16DC cinit CODE >18457:C:\Users\AULASI~1\AppData\Local\Temp\xcAsivk.s
+16DE cinit CODE >18463:C:\Users\AULASI~1\AppData\Local\Temp\xcAsivk.s
+16DE cinit CODE >18465:C:\Users\AULASI~1\AppData\Local\Temp\xcAsivk.s
+16E0 cinit CODE >18466:C:\Users\AULASI~1\AppData\Local\Temp\xcAsivk.s
+# %SYMTAB Section
+# An enumeration of all symbols in the program.
+# The beginning of the section is indicated by %SYMTAB.
+# Each line describes a single symbol as follows:
+#    <label> <value> [-]<load-adj> <class> <space> <psect> <file-name>
+# The value and load-adj are both in unqualified hexadecimal.
+# All other numeric values are in decimal.  The load-adj is the
+# quantity one needs to add to the symbol value in order to obtain the load
+# address of the symbol.  This value may be signed. If the symbol
+# was defined in a psect then <psect> will be "-". File-name
+# is the name of the object file in which the symbol was defined.
+%SYMTAB
+_SPI1SCKPPS 3ADE 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_SPI1SDIPPS 3ADF 0 ABS 0 - dist/default/debug\polling.X.debug.o
+__Lmediumconst 0 0 MEDIUMCONST 0 mediumconst dist/default/debug\polling.X.debug.o
+__end_of_inicie_cola 167C 0 CODE 0 text6 dist/default/debug\polling.X.debug.o
+__Hspace_0 17EC 0 ABS 0 - dist/default/debug\polling.X.debug.o
+__Hspace_1 B4 0 ABS 0 - dist/default/debug\polling.X.debug.o
+__Hspace_2 0 0 ABS 0 - dist/default/debug\polling.X.debug.o
+__Hspace_4 60000A 0 ABS 0 - dist/default/debug\polling.X.debug.o
+Tm_Inicie_periodico@periodo 12 0 COMRAM 1 cstackCOMRAM dist/default/debug\polling.X.debug.o
+__Hibigdata 0 0 CODE 0 ibigdata dist/default/debug\polling.X.debug.o
+__mediumconst 0 0 MEDIUMCONST 0 mediumconst C:\Users\AULASI~1\AppData\Local\Temp\xcAsivk.o
+__Heeprom_data 0 0 EEDATA 0 eeprom_data dist/default/debug\polling.X.debug.o
+__end_of_UART1_SetFramingErrorHandler 17C8 0 CODE 0 text16 dist/default/debug\polling.X.debug.o
+__end_of_UART1_SetOverrunErrorHandler 17B4 0 CODE 0 text14 dist/default/debug\polling.X.debug.o
+__end_of_INTERRUPT_Initialize 17EC 0 CODE 0 text23 dist/default/debug\polling.X.debug.o
+_PMD_Initialize 16A2 0 CODE 0 text20 dist/default/debug\polling.X.debug.o
+UART1_SetOverrunErrorHandler@interruptHandler 10 0 COMRAM 1 cstackCOMRAM dist/default/debug\polling.X.debug.o
+__Lsmallconst 1000 0 SMALLCONST 0 smallconst dist/default/debug\polling.X.debug.o
+_ADC1 5 0 COMRAM 1 bssCOMRAM dist/default/debug\polling.X.debug.o
+_ADC2 3 0 COMRAM 1 bssCOMRAM dist/default/debug\polling.X.debug.o
+_LATA 3FBA 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_LATB 3FBB 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_LATC 3FBC 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_LATD 3FBD 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_LATE 3FBE 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_PMD0 39C0 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_PMD1 39C1 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_PMD2 39C2 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_PMD3 39C3 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_PMD4 39C4 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_PMD5 39C5 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_PMD6 39C6 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_PMD7 39C7 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_T2PR 3FAB 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_TMR2 3FAA 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_WPUA 3A41 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_WPUB 3A51 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_WPUC 3A61 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_WPUD 3A71 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_WPUE 3A81 0 ABS 0 - dist/default/debug\polling.X.debug.o
+___sp 0 0 STACK 2 stack C:\Users\AULASI~1\AppData\Local\Temp\xcAsivk.o
+_data 1 0 COMRAM 1 bssCOMRAM dist/default/debug\polling.X.debug.o
+_main 11F8 0 CODE 0 text0 dist/default/debug\polling.X.debug.o
+start 1A 0 CODE 0 init C:\Users\AULASI~1\AppData\Local\Temp\xcAsivk.o
+__HbssCOMRAM 0 0 ABS 0 bssCOMRAM dist/default/debug\polling.X.debug.o
+__end_of_SPI1_Initialize 1736 0 CODE 0 text19 dist/default/debug\polling.X.debug.o
+_recibir_periodo_Eusart 1008 0 CODE 0 text4 dist/default/debug\polling.X.debug.o
+inicie_SPI@spi 10 0 COMRAM 1 cstackCOMRAM dist/default/debug\polling.X.debug.o
+__Hpowerup 0 0 CODE 0 powerup dist/default/debug\polling.X.debug.o
+__end_of_spi1_configuration 1006 0 SMALLCONST 0 smallconst dist/default/debug\polling.X.debug.o
+_UART1_ErrorHandler AA 0 BANK0 1 nvBANK0 dist/default/debug\polling.X.debug.o
+_TMR2_Initialize 16E4 0 CODE 0 text18 dist/default/debug\polling.X.debug.o
+iniciar_struct_usart@disp 10 0 COMRAM 1 cstackCOMRAM dist/default/debug\polling.X.debug.o
+__accesstop 60 0 ABS 0 - C:\Users\AULASI~1\AppData\Local\Temp\xcAsivk.o
+intlevel0 0 0 CODE 0 text C:\Users\AULASI~1\AppData\Local\Temp\xcAsivk.o
+intlevel1 0 0 CODE 0 text C:\Users\AULASI~1\AppData\Local\Temp\xcAsivk.o
+intlevel2 0 0 CODE 0 text C:\Users\AULASI~1\AppData\Local\Temp\xcAsivk.o
+intlevel3 0 0 CODE 0 text C:\Users\AULASI~1\AppData\Local\Temp\xcAsivk.o
+__LbssCOMRAM 0 0 ABS 0 bssCOMRAM dist/default/debug\polling.X.debug.o
+__LnvFARRAM 0 0 FARRAM 0 nvFARRAM dist/default/debug\polling.X.debug.o
+_selec_gain 1778 0 CODE 0 text2 dist/default/debug\polling.X.debug.o
+__Hifardata 0 0 CODE 0 ifardata dist/default/debug\polling.X.debug.o
+__end_of_PMD_Initialize 16C6 0 CODE 0 text20 dist/default/debug\polling.X.debug.o
+__end_of_UART1_FramingError_ISR 17E2 0 CODE 0 text28 dist/default/debug\polling.X.debug.o
+__Hclrtext 0 0 ABS 0 clrtext dist/default/debug\polling.X.debug.o
+_U1ERRIE 3DFA 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_U1ERRIR 3DF9 0 ABS 0 - dist/default/debug\polling.X.debug.o
+ivt0x8_base 8 0 CODE 0 ivt0x8 dist/default/debug\polling.X.debug.o
+_U1RXPPS 3AE5 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_SPI1CON0bits 3D14 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_SPI1_Initialize 171C 0 CODE 0 text19 dist/default/debug\polling.X.debug.o
+_ADACCH 3EE9 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_ADACCL 3EE8 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_ADACCU 3EEA 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_ADACQH 3EF4 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_ADACQL 3EF3 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_ADCON0 3EF8 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_ADCON1 3EF9 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_ADCON2 3EFA 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_ADCON3 3EFB 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_ADERRH 3EE3 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_ADERRL 3EE2 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_ADLTHH 3EDF 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_ADLTHL 3EDE 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_ADPREH 3EF7 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_ADPREL 3EF6 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_ADRESH 3EF0 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_ADRESL 3EEF 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_ADSTAT 3EFC 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_ADUTHH 3EE1 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_ADUTHL 3EE0 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_spi1_configuration 1001 0 SMALLCONST 0 smallconst dist/default/debug\polling.X.debug.o
+_ANSELA 3A40 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_ANSELB 3A50 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_ANSELC 3A60 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_ANSELD 3A70 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_ANSELE 3A80 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_FVR_Initialize 17D2 0 CODE 0 text24 dist/default/debug\polling.X.debug.o
+___inthi_sp 0 0 STACK 2 stack C:\Users\AULASI~1\AppData\Local\Temp\xcAsivk.o
+___intlo_sp 0 0 STACK 2 stack C:\Users\AULASI~1\AppData\Local\Temp\xcAsivk.o
+_FVRCONbits 3EC1 0 ABS 0 - dist/default/debug\polling.X.debug.o
+__end_of_INTERRUPT_InterruptManager 150E 0 CODE 0 text26 dist/default/debug\polling.X.debug.o
+__Lintsave_regs 0 0 BIGRAM 1 intsave_regs dist/default/debug\polling.X.debug.o
+main@spi 91 0 BANK0 1 cstackBANK0 dist/default/debug\polling.X.debug.o
+Tm_Inicie_periodico@ctp 10 0 COMRAM 1 cstackCOMRAM dist/default/debug\polling.X.debug.o
+__Hmediumconst 0 0 MEDIUMCONST 0 mediumconst dist/default/debug\polling.X.debug.o
+_FVRCON 3EC1 0 ABS 0 - dist/default/debug\polling.X.debug.o
+__LnvBANK0 0 0 ABS 0 nvBANK0 dist/default/debug\polling.X.debug.o
+selec_gain@spi 10 0 COMRAM 1 cstackCOMRAM dist/default/debug\polling.X.debug.o
+selec_channel@spi 10 0 COMRAM 1 cstackCOMRAM dist/default/debug\polling.X.debug.o
+_INLVLA 3A44 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_INLVLB 3A54 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_INLVLC 3A64 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_INLVLD 3A74 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_INLVLE 3A84 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_UART1_Write 1702 0 CODE 0 text5 dist/default/debug\polling.X.debug.o
+__end_of_selec_gain 178C 0 CODE 0 text2 dist/default/debug\polling.X.debug.o
+_INTCON0bits 3FD2 0 ABS 0 - dist/default/debug\polling.X.debug.o
+UART1_SetFramingErrorHandler@interruptHandler 10 0 COMRAM 1 cstackCOMRAM dist/default/debug\polling.X.debug.o
+_PIN_MANAGER_Initialize 12B6 0 CODE 0 text21 dist/default/debug\polling.X.debug.o
+__end_of_FVR_Initialize 17DA 0 CODE 0 text24 dist/default/debug\polling.X.debug.o
+start_initialization 16C6 0 CODE 0 cinit dist/default/debug\polling.X.debug.o
+_ODCONA 3A42 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_ODCONB 3A52 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_ODCONC 3A62 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_ODCOND 3A72 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_ODCONE 3A82 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_OSCFRQ 39DF 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_selec_channel 178C 0 CODE 0 text3 dist/default/debug\polling.X.debug.o
+__HnvFARRAM 0 0 FARRAM 0 nvFARRAM dist/default/debug\polling.X.debug.o
+_UART1_Initialize 13F4 0 CODE 0 text12 dist/default/debug\polling.X.debug.o
+_TRISCbits 3FC4 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_ADFLTRH 3EE7 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_ADFLTRL 3EE6 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_ADPREVH 3EEE 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_ADPREVL 3EED 0 ABS 0 - dist/default/debug\polling.X.debug.o
+___rparam_used 1 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_ADSTPTH 3EE5 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_ADSTPTL 3EE4 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_RB1I2C 3A5A 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_RB2I2C 3A5B 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_RC3I2C 3A6A 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_RC3PPS 3A13 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_RC4I2C 3A6B 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_RC5PPS 3A15 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_RC6PPS 3A16 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_RD0I2C 3A7A 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_RD1I2C 3A7B 0 ABS 0 - dist/default/debug\polling.X.debug.o
+__end_of_SYSTEM_Initialize 16A2 0 CODE 0 text11 dist/default/debug\polling.X.debug.o
+__pcstackBANK0 60 0 BANK0 1 cstackBANK0 dist/default/debug\polling.X.debug.o
+_U1CON0bits 3DF2 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_T2CLKCON 3FAE 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_U1BRGH 3DF6 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_U1BRGL 3DF5 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_U1CON0 3DF2 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_U1CON1 3DF3 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_U1CON2 3DF4 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_U1FIFO 3DF7 0 ABS 0 - dist/default/debug\polling.X.debug.o
+__end_of_recibir_periodo_Eusart 11F8 0 CODE 0 text4 dist/default/debug\polling.X.debug.o
+isa$xinst 0 0 ABS 0 - C:\Users\AULASI~1\AppData\Local\Temp\xcAsivk.o
+__end_of_ADCC_Initialize 15EC 0 CODE 0 text25 dist/default/debug\polling.X.debug.o
+__Hbank0 0 0 ABS 0 bank0 dist/default/debug\polling.X.debug.o
+__Hbank1 0 0 ABS 0 bank1 dist/default/debug\polling.X.debug.o
+__Hbank2 0 0 ABS 0 bank2 dist/default/debug\polling.X.debug.o
+__Hbank3 0 0 ABS 0 bank3 dist/default/debug\polling.X.debug.o
+__Hbank4 0 0 ABS 0 bank4 dist/default/debug\polling.X.debug.o
+__Hbank5 0 0 ABS 0 bank5 dist/default/debug\polling.X.debug.o
+__Hbank6 0 0 ABS 0 bank6 dist/default/debug\polling.X.debug.o
+__Hbank7 0 0 ABS 0 bank7 dist/default/debug\polling.X.debug.o
+__Hbank8 0 0 ABS 0 bank8 dist/default/debug\polling.X.debug.o
+__Hbank9 0 0 ABS 0 bank9 dist/default/debug\polling.X.debug.o
+__Hcinit 0 0 ABS 0 cinit dist/default/debug\polling.X.debug.o
+__Hconst 0 0 CONST 0 const dist/default/debug\polling.X.debug.o
+__Hidata 0 0 CODE 0 idata dist/default/debug\polling.X.debug.o
+__Hidloc 200010 0 IDLOC 5 idloc dist/default/debug\polling.X.debug.o
+__Hnvbit 0 0 COMRAM 1 nvbit dist/default/debug\polling.X.debug.o
+__Hparam 0 0 COMRAM 1 rparam dist/default/debug\polling.X.debug.o
+__Hrdata 0 0 COMRAM 1 rdata dist/default/debug\polling.X.debug.o
+__Hstack 0 0 STACK 2 stack dist/default/debug\polling.X.debug.o
+__Htext0 0 0 ABS 0 text0 dist/default/debug\polling.X.debug.o
+__Htext1 0 0 ABS 0 text1 dist/default/debug\polling.X.debug.o
+__Htext2 0 0 ABS 0 text2 dist/default/debug\polling.X.debug.o
+__Htext3 0 0 ABS 0 text3 dist/default/debug\polling.X.debug.o
+__Htext4 0 0 ABS 0 text4 dist/default/debug\polling.X.debug.o
+__Htext5 0 0 ABS 0 text5 dist/default/debug\polling.X.debug.o
+__Htext6 0 0 ABS 0 text6 dist/default/debug\polling.X.debug.o
+__Htext7 0 0 ABS 0 text7 dist/default/debug\polling.X.debug.o
+__Htext8 0 0 ABS 0 text8 dist/default/debug\polling.X.debug.o
+__Htext9 0 0 ABS 0 text9 dist/default/debug\polling.X.debug.o
+__Hbank10 0 0 ABS 0 bank10 dist/default/debug\polling.X.debug.o
+__Hbank11 0 0 ABS 0 bank11 dist/default/debug\polling.X.debug.o
+__Hbank12 0 0 ABS 0 bank12 dist/default/debug\polling.X.debug.o
+__Hbank13 0 0 ABS 0 bank13 dist/default/debug\polling.X.debug.o
+__Hbank14 0 0 ABS 0 bank14 dist/default/debug\polling.X.debug.o
+__Hbank15 0 0 ABS 0 bank15 dist/default/debug\polling.X.debug.o
+__Hbigbss 0 0 BIGRAM 1 bigbss dist/default/debug\polling.X.debug.o
+__Hbigram 0 0 ABS 0 bigram dist/default/debug\polling.X.debug.o
+__Hbigsfr 0 0 ABS 0 bigsfr dist/default/debug\polling.X.debug.o
+__smallconst 1000 0 SMALLCONST 0 smallconst C:\Users\AULASI~1\AppData\Local\Temp\xcAsivk.o
+__end_of_UART1_is_rx_ready 1764 0 CODE 0 text9 dist/default/debug\polling.X.debug.o
+__Hcomram 0 0 ABS 0 comram dist/default/debug\polling.X.debug.o
+__Hconfig 30000A 0 CONFIG 4 config dist/default/debug\polling.X.debug.o
+_T2HLTbits 3FAD 0 ABS 0 - dist/default/debug\polling.X.debug.o
+__Lbank0 0 0 ABS 0 bank0 dist/default/debug\polling.X.debug.o
+__Lbank1 0 0 ABS 0 bank1 dist/default/debug\polling.X.debug.o
+__Lbank2 0 0 ABS 0 bank2 dist/default/debug\polling.X.debug.o
+__Lbank3 0 0 ABS 0 bank3 dist/default/debug\polling.X.debug.o
+__Lbank4 0 0 ABS 0 bank4 dist/default/debug\polling.X.debug.o
+__Lbank5 0 0 ABS 0 bank5 dist/default/debug\polling.X.debug.o
+__Lbank6 0 0 ABS 0 bank6 dist/default/debug\polling.X.debug.o
+__Lbank7 0 0 ABS 0 bank7 dist/default/debug\polling.X.debug.o
+__Lbank8 0 0 ABS 0 bank8 dist/default/debug\polling.X.debug.o
+__Lbank9 0 0 ABS 0 bank9 dist/default/debug\polling.X.debug.o
+__Lcinit 0 0 ABS 0 cinit dist/default/debug\polling.X.debug.o
+__Lconst 0 0 CONST 0 const dist/default/debug\polling.X.debug.o
+__Lidata 0 0 CODE 0 idata dist/default/debug\polling.X.debug.o
+__Lidloc 0 0 IDLOC 5 idloc dist/default/debug\polling.X.debug.o
+__Lnvbit 0 0 COMRAM 1 nvbit dist/default/debug\polling.X.debug.o
+__Lparam 0 0 COMRAM 1 rparam dist/default/debug\polling.X.debug.o
+__Lrdata 0 0 COMRAM 1 rdata dist/default/debug\polling.X.debug.o
+__Lstack 0 0 STACK 2 stack dist/default/debug\polling.X.debug.o
+__Ltext0 0 0 ABS 0 text0 dist/default/debug\polling.X.debug.o
+__Ltext1 0 0 ABS 0 text1 dist/default/debug\polling.X.debug.o
+__Ltext2 0 0 ABS 0 text2 dist/default/debug\polling.X.debug.o
+__Ltext3 0 0 ABS 0 text3 dist/default/debug\polling.X.debug.o
+__Ltext4 0 0 ABS 0 text4 dist/default/debug\polling.X.debug.o
+__Ltext5 0 0 ABS 0 text5 dist/default/debug\polling.X.debug.o
+__Ltext6 0 0 ABS 0 text6 dist/default/debug\polling.X.debug.o
+__Ltext7 0 0 ABS 0 text7 dist/default/debug\polling.X.debug.o
+__Ltext8 0 0 ABS 0 text8 dist/default/debug\polling.X.debug.o
+__Ltext9 0 0 ABS 0 text9 dist/default/debug\polling.X.debug.o
+__Hfarbss 0 0 FARRAM 0 farbss dist/default/debug\polling.X.debug.o
+selec_gain@gananciaspi 12 0 COMRAM 1 cstackCOMRAM dist/default/debug\polling.X.debug.o
+_INTERRUPT_Initialize 17E8 0 CODE 0 text23 dist/default/debug\polling.X.debug.o
+__Habs1 0 0 ABS 0 abs1 dist/default/debug\polling.X.debug.o
+__Hdata 0 0 ABS 0 data dist/default/debug\polling.X.debug.o
+__Hheap 0 0 HEAP 7 heap dist/default/debug\polling.X.debug.o
+__Hinit 1E 0 CODE 0 init dist/default/debug\polling.X.debug.o
+__Hrbit 0 0 COMRAM 1 rbit dist/default/debug\polling.X.debug.o
+__Hrbss 0 0 COMRAM 1 rbss dist/default/debug\polling.X.debug.o
+__Htemp 0 0 COMRAM 1 temp dist/default/debug\polling.X.debug.o
+__Htext 0 0 ABS 0 text dist/default/debug\polling.X.debug.o
+__Labs1 0 0 ABS 0 abs1 dist/default/debug\polling.X.debug.o
+__Ldata 0 0 ABS 0 data dist/default/debug\polling.X.debug.o
+__Lheap 0 0 HEAP 7 heap dist/default/debug\polling.X.debug.o
+__Linit 1A 0 CODE 0 init dist/default/debug\polling.X.debug.o
+__Lrbit 0 0 COMRAM 1 rbit dist/default/debug\polling.X.debug.o
+__Lrbss 0 0 COMRAM 1 rbss dist/default/debug\polling.X.debug.o
+__Ltemp 0 0 COMRAM 1 temp dist/default/debug\polling.X.debug.o
+__Ltext 0 0 ABS 0 text dist/default/debug\polling.X.debug.o
+__pnvBANK0 AA 0 BANK0 1 nvBANK0 dist/default/debug\polling.X.debug.o
+_UART1_UARTInterruptHandler B0 0 BANK0 1 nvBANK0 dist/default/debug\polling.X.debug.o
+__LcstackBANK0 0 0 ABS 0 cstackBANK0 dist/default/debug\polling.X.debug.o
+__HcstackCOMRAM 0 0 ABS 0 cstackCOMRAM dist/default/debug\polling.X.debug.o
+_UART1_SetUartInterruptHandler 17A0 0 CODE 0 text13 dist/default/debug\polling.X.debug.o
+__Hirdata 0 0 CODE 0 irdata dist/default/debug\polling.X.debug.o
+_PR2 3FAB 0 ABS 0 - dist/default/debug\polling.X.debug.o
+__S0 17EC 0 ABS 0 - dist/default/debug\polling.X.debug.o
+__S1 B4 0 ABS 0 - dist/default/debug\polling.X.debug.o
+__S4 0 0 ABS 0 - dist/default/debug\polling.X.debug.o
+__S5 0 0 ABS 0 - dist/default/debug\polling.X.debug.o
+__Hivt0x8 1A 0 CODE 0 ivt0x8 dist/default/debug\polling.X.debug.o
+IVTBASEH 3FD6 0 ABS 0 - dist/default/debug\polling.X.debug.o
+IVTBASEL 3FD5 0 ABS 0 - dist/default/debug\polling.X.debug.o
+IVTBASEU 3FD7 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_uart1RxLastError D 0 COMRAM 1 bssCOMRAM dist/default/debug\polling.X.debug.o
+__end_of_UART1_Initialize 1482 0 CODE 0 text12 dist/default/debug\polling.X.debug.o
+_SPI1BAUD 3D19 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_SPI1CON0 3D14 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_SPI1CON1 3D15 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_SPI1CON2 3D16 0 ABS 0 - dist/default/debug\polling.X.debug.o
+__end_of_iniciar_struct_usart 1590 0 CODE 0 text8 dist/default/debug\polling.X.debug.o
+_T2RSTbits 3FAF 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_ADCC_Initialize 1590 0 CODE 0 text25 dist/default/debug\polling.X.debug.o
+__pivt0x8 8 0 CODE 0 ivt0x8 dist/default/debug\polling.X.debug.o
+__end_of_UART1_SetFramingErrorInterruptHandler 17BE 0 CODE 0 text15 dist/default/debug\polling.X.debug.o
+__Lbigdata 0 0 BIGRAM 1 bigdata dist/default/debug\polling.X.debug.o
+__Hnvrram 0 0 COMRAM 1 nvrram dist/default/debug\polling.X.debug.o
+_SYSTEM_Initialize 167C 0 CODE 0 text11 dist/default/debug\polling.X.debug.o
+__HnvBANK0 0 0 ABS 0 nvBANK0 dist/default/debug\polling.X.debug.o
+_UART1_FramingErrorInterruptHandler B2 0 BANK0 1 nvBANK0 dist/default/debug\polling.X.debug.o
+__Hramtop 1000 0 RAM 0 ramtop dist/default/debug\polling.X.debug.o
+__Hrparam 0 0 COMRAM 1 rparam dist/default/debug\polling.X.debug.o
+selec_imp@spi 10 0 COMRAM 1 cstackCOMRAM dist/default/debug\polling.X.debug.o
+__activetblptr 3 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_Tm_Inicie_periodico 15EC 0 CODE 0 text10 dist/default/debug\polling.X.debug.o
+__Hstruct 0 0 COMRAM 1 struct dist/default/debug\polling.X.debug.o
+__Htext10 0 0 ABS 0 text10 dist/default/debug\polling.X.debug.o
+__Htext11 0 0 ABS 0 text11 dist/default/debug\polling.X.debug.o
+__Htext12 0 0 ABS 0 text12 dist/default/debug\polling.X.debug.o
+__Htext13 0 0 ABS 0 text13 dist/default/debug\polling.X.debug.o
+__Htext14 0 0 ABS 0 text14 dist/default/debug\polling.X.debug.o
+__Htext15 0 0 ABS 0 text15 dist/default/debug\polling.X.debug.o
+__Htext16 0 0 ABS 0 text16 dist/default/debug\polling.X.debug.o
+__Htext17 0 0 ABS 0 text17 dist/default/debug\polling.X.debug.o
+__Htext18 0 0 ABS 0 text18 dist/default/debug\polling.X.debug.o
+__Htext19 0 0 ABS 0 text19 dist/default/debug\polling.X.debug.o
+__Htext20 0 0 ABS 0 text20 dist/default/debug\polling.X.debug.o
+__Htext21 0 0 ABS 0 text21 dist/default/debug\polling.X.debug.o
+__Htext22 0 0 ABS 0 text22 dist/default/debug\polling.X.debug.o
+__Htext23 0 0 ABS 0 text23 dist/default/debug\polling.X.debug.o
+__Htext24 0 0 ABS 0 text24 dist/default/debug\polling.X.debug.o
+__Htext25 0 0 ABS 0 text25 dist/default/debug\polling.X.debug.o
+__Htext26 0 0 ABS 0 text26 dist/default/debug\polling.X.debug.o
+__Htext27 0 0 ABS 0 text27 dist/default/debug\polling.X.debug.o
+__Htext28 0 0 ABS 0 text28 dist/default/debug\polling.X.debug.o
+__Htext29 0 0 ABS 0 text29 dist/default/debug\polling.X.debug.o
+_INTERRUPT_InterruptManager 1482 0 CODE 0 text26 dist/default/debug\polling.X.debug.o
+_PIE3bits 3993 0 ABS 0 - dist/default/debug\polling.X.debug.o
+UART1_SetUartInterruptHandler@InterruptHandler 10 0 COMRAM 1 cstackCOMRAM dist/default/debug\polling.X.debug.o
+__end_of_selec_channel 17A0 0 CODE 0 text3 dist/default/debug\polling.X.debug.o
+_inicie_cola 163E 0 CODE 0 text6 dist/default/debug\polling.X.debug.o
+__ptext10 15EC 0 CODE 0 text10 dist/default/debug\polling.X.debug.o
+__ptext11 167C 0 CODE 0 text11 dist/default/debug\polling.X.debug.o
+__ptext12 13F4 0 CODE 0 text12 dist/default/debug\polling.X.debug.o
+__ptext13 17A0 0 CODE 0 text13 dist/default/debug\polling.X.debug.o
+__ptext14 17AA 0 CODE 0 text14 dist/default/debug\polling.X.debug.o
+__ptext15 17B4 0 CODE 0 text15 dist/default/debug\polling.X.debug.o
+__ptext16 17BE 0 CODE 0 text16 dist/default/debug\polling.X.debug.o
+__ptext17 17C8 0 CODE 0 text17 dist/default/debug\polling.X.debug.o
+__ptext18 16E4 0 CODE 0 text18 dist/default/debug\polling.X.debug.o
+__ptext19 171C 0 CODE 0 text19 dist/default/debug\polling.X.debug.o
+__ptext20 16A2 0 CODE 0 text20 dist/default/debug\polling.X.debug.o
+__ptext21 12B6 0 CODE 0 text21 dist/default/debug\polling.X.debug.o
+__ptext22 1736 0 CODE 0 text22 dist/default/debug\polling.X.debug.o
+__ptext23 17E8 0 CODE 0 text23 dist/default/debug\polling.X.debug.o
+__ptext24 17D2 0 CODE 0 text24 dist/default/debug\polling.X.debug.o
+__ptext25 1590 0 CODE 0 text25 dist/default/debug\polling.X.debug.o
+__ptext26 1482 0 CODE 0 text26 dist/default/debug\polling.X.debug.o
+__ptext27 17E2 0 CODE 0 text27 dist/default/debug\polling.X.debug.o
+__ptext28 17DA 0 CODE 0 text28 dist/default/debug\polling.X.debug.o
+__ptext29 0 0 CODE 0 text29 dist/default/debug\polling.X.debug.o
+_UART1_is_rx_ready 174E 0 CODE 0 text9 dist/default/debug\polling.X.debug.o
+__end_of_selec_imp 1778 0 CODE 0 text1 dist/default/debug\polling.X.debug.o
+__end_of_PIN_MANAGER_Initialize 135E 0 CODE 0 text21 dist/default/debug\polling.X.debug.o
+__Lbank10 0 0 ABS 0 bank10 dist/default/debug\polling.X.debug.o
+__Lbank11 0 0 ABS 0 bank11 dist/default/debug\polling.X.debug.o
+__Lbank12 0 0 ABS 0 bank12 dist/default/debug\polling.X.debug.o
+__Lbank13 0 0 ABS 0 bank13 dist/default/debug\polling.X.debug.o
+__Lbank14 0 0 ABS 0 bank14 dist/default/debug\polling.X.debug.o
+__Lbank15 0 0 ABS 0 bank15 dist/default/debug\polling.X.debug.o
+__Lbigbss 0 0 BIGRAM 1 bigbss dist/default/debug\polling.X.debug.o
+__Lbigram 0 0 ABS 0 bigram dist/default/debug\polling.X.debug.o
+__Lbigsfr 0 0 ABS 0 bigsfr dist/default/debug\polling.X.debug.o
+UART1_SetErrorHandler@interruptHandler 10 0 COMRAM 1 cstackCOMRAM dist/default/debug\polling.X.debug.o
+__Lcomram 0 0 ABS 0 comram dist/default/debug\polling.X.debug.o
+__Lconfig 0 0 CONFIG 4 config dist/default/debug\polling.X.debug.o
+_LATBbits 3FBB 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_LATEbits 3FBE 0 ABS 0 - dist/default/debug\polling.X.debug.o
+main@cola 60 0 BANK0 1 cstackBANK0 dist/default/debug\polling.X.debug.o
+main@disp 9F 0 BANK0 1 cstackBANK0 dist/default/debug\polling.X.debug.o
+__Lfarbss 0 0 FARRAM 0 farbss dist/default/debug\polling.X.debug.o
+__Lfardata 0 0 FARRAM 0 fardata dist/default/debug\polling.X.debug.o
+isa$std 1 0 ABS 0 - C:\Users\AULASI~1\AppData\Local\Temp\xcAsivk.o
+_selec_imp 1764 0 CODE 0 text1 dist/default/debug\polling.X.debug.o
+__end_of_UART1_Write 171C 0 CODE 0 text5 dist/default/debug\polling.X.debug.o
+_UART1_SetFramingErrorInterruptHandler 17B4 0 CODE 0 text15 dist/default/debug\polling.X.debug.o
+stackhi 0 0 ABS 0 - C:\Users\AULASI~1\AppData\Local\Temp\xcAsivk.o
+stacklo 0 0 ABS 0 - C:\Users\AULASI~1\AppData\Local\Temp\xcAsivk.o
+_primerbyte 8 0 COMRAM 1 bssCOMRAM dist/default/debug\polling.X.debug.o
+_OSCCON1 39D9 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_OSCCON3 39DB 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_OSCTUNE 39DE 0 ABS 0 - dist/default/debug\polling.X.debug.o
+__Lirdata 0 0 CODE 0 irdata dist/default/debug\polling.X.debug.o
+__Livt0x8 8 0 CODE 0 ivt0x8 dist/default/debug\polling.X.debug.o
+_ADCON0bits 3EF8 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_ADCON1bits 3EF9 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_ADCON2bits 3EFA 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_ADCON3bits 3EFB 0 ABS 0 - dist/default/debug\polling.X.debug.o
+__Lspace_0 0 0 ABS 0 - dist/default/debug\polling.X.debug.o
+__Lspace_1 0 0 ABS 0 - dist/default/debug\polling.X.debug.o
+__Lspace_2 0 0 ABS 0 - dist/default/debug\polling.X.debug.o
+__Lspace_4 0 0 ABS 0 - dist/default/debug\polling.X.debug.o
+__pbssCOMRAM 1 0 COMRAM 1 bssCOMRAM dist/default/debug\polling.X.debug.o
+main@colarx 75 0 BANK0 1 cstackBANK0 dist/default/debug\polling.X.debug.o
+__HcstackBANK0 0 0 ABS 0 cstackBANK0 dist/default/debug\polling.X.debug.o
+_PIR2bits 39A2 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_PIR3bits 39A3 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_PIR4bits 39A4 0 ABS 0 - dist/default/debug\polling.X.debug.o
+__LcstackCOMRAM 0 0 ABS 0 cstackCOMRAM dist/default/debug\polling.X.debug.o
+_UART1_SetFramingErrorHandler 17BE 0 CODE 0 text16 dist/default/debug\polling.X.debug.o
+_UART1_SetOverrunErrorHandler 17AA 0 CODE 0 text14 dist/default/debug\polling.X.debug.o
+_f_send1 A 0 COMRAM 1 bssCOMRAM dist/default/debug\polling.X.debug.o
+_f_send2 9 0 COMRAM 1 bssCOMRAM dist/default/debug\polling.X.debug.o
+_SPI1TCNTL 3D12 0 ABS 0 - dist/default/debug\polling.X.debug.o
+end_of_initialization 16DE 0 CODE 0 cinit dist/default/debug\polling.X.debug.o
+__Lnvrram 0 0 COMRAM 1 nvrram dist/default/debug\polling.X.debug.o
+__Hreset_vec 6 0 CODE 0 reset_vec dist/default/debug\polling.X.debug.o
+_UART1_FramingErrorHandler AE 0 BANK0 1 nvBANK0 dist/default/debug\polling.X.debug.o
+_UART1_OverrunErrorHandler AC 0 BANK0 1 nvBANK0 dist/default/debug\polling.X.debug.o
+inicie_cola@c 10 0 COMRAM 1 cstackCOMRAM dist/default/debug\polling.X.debug.o
+__Lramtop 1000 0 RAM 0 ramtop dist/default/debug\polling.X.debug.o
+__Lrparam 0 0 COMRAM 1 rparam dist/default/debug\polling.X.debug.o
+__pcinit 16C6 0 CODE 0 cinit dist/default/debug\polling.X.debug.o
+__end_of_Tm_Inicie_periodico 163E 0 CODE 0 text10 dist/default/debug\polling.X.debug.o
+_inicie_SPI 135E 0 CODE 0 text7 dist/default/debug\polling.X.debug.o
+__ptext0 11F8 0 CODE 0 text0 dist/default/debug\polling.X.debug.o
+__ptext1 1764 0 CODE 0 text1 dist/default/debug\polling.X.debug.o
+__ptext2 1778 0 CODE 0 text2 dist/default/debug\polling.X.debug.o
+__ptext3 178C 0 CODE 0 text3 dist/default/debug\polling.X.debug.o
+__ptext4 1008 0 CODE 0 text4 dist/default/debug\polling.X.debug.o
+__ptext5 1702 0 CODE 0 text5 dist/default/debug\polling.X.debug.o
+__ptext6 163E 0 CODE 0 text6 dist/default/debug\polling.X.debug.o
+__ptext7 135E 0 CODE 0 text7 dist/default/debug\polling.X.debug.o
+__ptext8 150E 0 CODE 0 text8 dist/default/debug\polling.X.debug.o
+__ptext9 174E 0 CODE 0 text9 dist/default/debug\polling.X.debug.o
+__Lstruct 0 0 COMRAM 1 struct dist/default/debug\polling.X.debug.o
+__Ltext10 0 0 ABS 0 text10 dist/default/debug\polling.X.debug.o
+__Ltext11 0 0 ABS 0 text11 dist/default/debug\polling.X.debug.o
+__Ltext12 0 0 ABS 0 text12 dist/default/debug\polling.X.debug.o
+__Ltext13 0 0 ABS 0 text13 dist/default/debug\polling.X.debug.o
+__Ltext14 0 0 ABS 0 text14 dist/default/debug\polling.X.debug.o
+__Ltext15 0 0 ABS 0 text15 dist/default/debug\polling.X.debug.o
+__Ltext16 0 0 ABS 0 text16 dist/default/debug\polling.X.debug.o
+__Ltext17 0 0 ABS 0 text17 dist/default/debug\polling.X.debug.o
+__Ltext18 0 0 ABS 0 text18 dist/default/debug\polling.X.debug.o
+__Ltext19 0 0 ABS 0 text19 dist/default/debug\polling.X.debug.o
+__Ltext20 0 0 ABS 0 text20 dist/default/debug\polling.X.debug.o
+__Ltext21 0 0 ABS 0 text21 dist/default/debug\polling.X.debug.o
+__Ltext22 0 0 ABS 0 text22 dist/default/debug\polling.X.debug.o
+__Ltext23 0 0 ABS 0 text23 dist/default/debug\polling.X.debug.o
+__Ltext24 0 0 ABS 0 text24 dist/default/debug\polling.X.debug.o
+__Ltext25 0 0 ABS 0 text25 dist/default/debug\polling.X.debug.o
+__Ltext26 0 0 ABS 0 text26 dist/default/debug\polling.X.debug.o
+__Ltext27 0 0 ABS 0 text27 dist/default/debug\polling.X.debug.o
+__Ltext28 0 0 ABS 0 text28 dist/default/debug\polling.X.debug.o
+__Ltext29 0 0 ABS 0 text29 dist/default/debug\polling.X.debug.o
+recibir_periodo_Eusart@dato 13 0 COMRAM 1 cstackCOMRAM dist/default/debug\polling.X.debug.o
+recibir_periodo_Eusart@disp 11 0 COMRAM 1 cstackCOMRAM dist/default/debug\polling.X.debug.o
+__ramtop 1000 0 RAM 0 ramtop C:\Users\AULASI~1\AppData\Local\Temp\xcAsivk.o
+__Lpowerup 0 0 CODE 0 powerup dist/default/debug\polling.X.debug.o
+__Leeprom_data 0 0 EEDATA 0 eeprom_data dist/default/debug\polling.X.debug.o
+_UART1_DefaultErrorHandler 0 0 ABS 0 - dist/default/debug\polling.X.debug.o
+__psmallconst 1000 0 SMALLCONST 0 smallconst dist/default/debug\polling.X.debug.o
+UART1_SetFramingErrorInterruptHandler@InterruptHandler 10 0 COMRAM 1 cstackCOMRAM dist/default/debug\polling.X.debug.o
+__Lreset_vec 0 0 CODE 0 reset_vec dist/default/debug\polling.X.debug.o
+_SLRCONA 3A43 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_SLRCONB 3A53 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_SLRCONC 3A63 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_SLRCOND 3A73 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_SLRCONE 3A83 0 ABS 0 - dist/default/debug\polling.X.debug.o
+___heap_hi 0 0 ABS 0 - C:\Users\AULASI~1\AppData\Local\Temp\xcAsivk.o
+___heap_lo 0 0 ABS 0 - C:\Users\AULASI~1\AppData\Local\Temp\xcAsivk.o
+_UART1_UartInterrupt_ISR 17E2 0 CODE 0 text27 dist/default/debug\polling.X.debug.o
+___param_bank 0 0 ABS 0 - dist/default/debug\polling.X.debug.o
+__Hbigdata 0 0 BIGRAM 1 bigdata dist/default/debug\polling.X.debug.o
+__end_of_UART1_SetUartInterruptHandler 17AA 0 CODE 0 text13 dist/default/debug\polling.X.debug.o
+__end_of__initialization 16DE 0 CODE 0 cinit dist/default/debug\polling.X.debug.o
+__end_of_UART1_UartInterrupt_ISR 17E8 0 CODE 0 text27 dist/default/debug\polling.X.debug.o
+__Libigdata 0 0 CODE 0 ibigdata dist/default/debug\polling.X.debug.o
+_ADSTATbits 3EFC 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_UART1_DefaultFramingErrorHandler 0 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_UART1_DefaultOverrunErrorHandler 0 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_U1UIRbits 3DF8 0 ABS 0 - dist/default/debug\polling.X.debug.o
+__Lclrtext 0 0 ABS 0 clrtext dist/default/debug\polling.X.debug.o
+_UART1_FramingError_ISR 17DA 0 CODE 0 text28 dist/default/debug\polling.X.debug.o
+_SPI1CLK 3D1C 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_SPI1RXB 3D10 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_SPI1TXB 3D11 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_segundobyte 7 0 COMRAM 1 bssCOMRAM dist/default/debug\polling.X.debug.o
+__pcstackCOMRAM E 0 COMRAM 1 cstackCOMRAM dist/default/debug\polling.X.debug.o
+selec_imp@impedanciaspi 12 0 COMRAM 1 cstackCOMRAM dist/default/debug\polling.X.debug.o
+__end_of_main 12B6 0 CODE 0 text0 dist/default/debug\polling.X.debug.o
+__end_of_inicie_SPI 13F4 0 CODE 0 text7 dist/default/debug\polling.X.debug.o
+__end_of_UART1_SetErrorHandler 17D2 0 CODE 0 text17 dist/default/debug\polling.X.debug.o
+selec_channel@canalspi 12 0 COMRAM 1 cstackCOMRAM dist/default/debug\polling.X.debug.o
+_ADACT 3EFE 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_ADCAP 3EF5 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_ADCLK 3EFF 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_ADCNT 3EEB 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_ADPCH 3EF1 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_ADREF 3EFD 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_ADRPT 3EEC 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_OSCEN 39DD 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_T2CON 3FAC 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_T2HLT 3FAD 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_T2RST 3FAF 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_T2TMR 3FAA 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_TRISA 3FC2 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_TRISB 3FC3 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_TRISC 3FC4 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_TRISD 3FC5 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_TRISE 3FC6 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_U1P1H 3DED 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_U1P1L 3DEC 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_U1P2H 3DEF 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_U1P2L 3DEE 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_U1P3H 3DF1 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_U1P3L 3DF0 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_U1RXB 3DE8 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_U1TXB 3DEA 0 ABS 0 - dist/default/debug\polling.X.debug.o
+_U1UIR 3DF8 0 ABS 0 - dist/default/debug\polling.X.debug.o
+__HRAM 0 0 ABS 0 - dist/default/debug\polling.X.debug.o
+__Hbss 0 0 RAM 1 bss dist/default/debug\polling.X.debug.o
+__Hram 0 0 ABS 0 ram dist/default/debug\polling.X.debug.o
+__Hsfr 0 0 ABS 0 sfr dist/default/debug\polling.X.debug.o
+__LRAM 1 0 ABS 0 - dist/default/debug\polling.X.debug.o
+__Lbss 0 0 RAM 1 bss dist/default/debug\polling.X.debug.o
+__Lram 0 0 ABS 0 ram dist/default/debug\polling.X.debug.o
+__Lsfr 0 0 ABS 0 sfr dist/default/debug\polling.X.debug.o
+_conv1 C 0 COMRAM 1 bssCOMRAM dist/default/debug\polling.X.debug.o
+_conv2 B 0 COMRAM 1 bssCOMRAM dist/default/debug\polling.X.debug.o
+_iniciar_struct_usart 150E 0 CODE 0 text8 dist/default/debug\polling.X.debug.o
+__end_of_OSCILLATOR_Initialize 174E 0 CODE 0 text22 dist/default/debug\polling.X.debug.o
+__initialization 16C6 0 CODE 0 cinit dist/default/debug\polling.X.debug.o
+_UART1_SetErrorHandler 17C8 0 CODE 0 text17 dist/default/debug\polling.X.debug.o
+_T2CONbits 3FAC 0 ABS 0 - dist/default/debug\polling.X.debug.o
+__Hfardata 0 0 FARRAM 0 fardata dist/default/debug\polling.X.debug.o
+__Hsmallconst 1008 0 SMALLCONST 0 smallconst dist/default/debug\polling.X.debug.o
+main@time_out 8A 0 BANK0 1 cstackBANK0 dist/default/debug\polling.X.debug.o
+__Lifardata 0 0 CODE 0 ifardata dist/default/debug\polling.X.debug.o
+_U1ERRIRbits 3DF9 0 ABS 0 - dist/default/debug\polling.X.debug.o
+__Hintsave_regs 0 0 BIGRAM 1 intsave_regs dist/default/debug\polling.X.debug.o
+_OSCILLATOR_Initialize 1736 0 CODE 0 text22 dist/default/debug\polling.X.debug.o
+UART1_Write@txData 10 0 COMRAM 1 cstackCOMRAM dist/default/debug\polling.X.debug.o
+__end_of_TMR2_Initialize 1702 0 CODE 0 text18 dist/default/debug\polling.X.debug.o
+# %SPLITSTAB Section
+# This section enumerates all the psect splits performed by the assembler.
+# The beginning of the section is indicated by %SPLITSTAB.
+# Each line is a record a particular split, where the parent psect is on
+# the left and the child on the right.  Note that a child psect is always
+# split form the top of the parent psect. All splits from a given parent
+# are listed in the order in which they occurred.
+%SPLITSTAB
+# %DABS Section
+# This section contains a table of all usuage of the assember
+# directive DABS in the program. Each line has the following format:
+#   <name> <space> <address> <size>
+# If the DABS was originally labelled then that shall be <name>,
+# otherwise name will be "-".  The <space> number is in decimal.
+# <address> and <size> are in byte units as unqaulified hexadecimal
+%DABS
+# %SEGMENTS Section
+# This sections enumerates the segments of the program.  Each segment
+# is described on a single line as follows:
+#    <name> <space> <link address> <file address> <size> <delta>
+# Addresses and size are in unqualified hexadecimal.  The link address
+# and size are in units of delta. The file address is in units of bytes.
+# All other numeric quantities are in decimal.
+%SEGMENTS
+ivt0x8 0 8 8 16 1
+text4 0 1008 1008 7E4 1
+cstackBANK0 1 60 60 54 1
+reset_vec 0 0 0 6 1
+smallconst 0 1000 1000 8 1
+bssCOMRAM 1 1 1 15 1
+# %NOTES Section
+# This section contains data of all the note-psects.  The beginning of the section
+# is indicated by %NOTES. The first line indicates the name and decimal
+# byte-length of the first note-psect, e.g.
+#   $codecov_info_hdr 16
+# Each line that follows contains the byte-data of the psect in hexadecimal as a
+# space-separated list. These lines are limited to 16 bytes of data.
+%NOTES
