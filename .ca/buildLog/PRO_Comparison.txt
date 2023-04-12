@@ -1,0 +1,157 @@
+make -f nbproject/Makefile-PRO_Comparison.mk SUBPROJECTS= .clean-conf
+make[1]: Entering directory 'D:/Camilo/Registro clases/7 semestre materias/Proyecto 2/proyectos/practica 2/codigosv2/polling.X'
+rm -f  -r .ca/build/PRO_Comparison/production
+rm -f  -r .ca/dist/PRO_Comparison/production
+make[1]: Leaving directory 'D:/Camilo/Registro clases/7 semestre materias/Proyecto 2/proyectos/practica 2/codigosv2/polling.X'
+[32mCLEAN SUCCESSFUL (total time: 52ms)[0m
+make -f nbproject/Makefile-PRO_Comparison.mk SUBPROJECTS= .build-conf
+make[1]: Entering directory 'D:/Camilo/Registro clases/7 semestre materias/Proyecto 2/proyectos/practica 2/codigosv2/polling.X'
+make  -f nbproject/Makefile-PRO_Comparison.mk .ca/dist/PRO_Comparison/production/polling.X.production.hex
+make[2]: Entering directory 'D:/Camilo/Registro clases/7 semestre materias/Proyecto 2/proyectos/practica 2/codigosv2/polling.X'
+"C:\Program Files\Microchip\xc8\v2.40\bin\xc8-cc.exe"  -mcpu=18F46K42 -c   -mdfp="C:/Program Files/Microchip/MPLABX/v6.05/packs/Microchip/PIC18F-K_DFP/1.7.134/xc8"  -fno-short-double -fno-short-float -memi=wordwrite -O0 -fasmfile -maddrqual=ignore -xassembler-with-cpp -mwarn=-3 -Wa,-a -DXPRJ_PRO_Comparison=PRO_Comparison  -msummary=-psect,-class,+mem,-hex,-file  -ginhx32 -Wl,--data-init -mno-keep-startup -mno-download -mdefault-config-bits   -std=c99 -gdwarf-3 -mstack=compiled:auto:auto:auto -mafrlcsj     -o .ca/build/PRO_Comparison/production/mcc_generated_files/device_config.p1 mcc_generated_files/device_config.c 
+"C:\Program Files\Microchip\xc8\v2.40\bin\xc8-cc.exe"  -mcpu=18F46K42 -c   -mdfp="C:/Program Files/Microchip/MPLABX/v6.05/packs/Microchip/PIC18F-K_DFP/1.7.134/xc8"  -fno-short-double -fno-short-float -memi=wordwrite -O0 -fasmfile -maddrqual=ignore -xassembler-with-cpp -mwarn=-3 -Wa,-a -DXPRJ_PRO_Comparison=PRO_Comparison  -msummary=-psect,-class,+mem,-hex,-file  -ginhx32 -Wl,--data-init -mno-keep-startup -mno-download -mdefault-config-bits   -std=c99 -gdwarf-3 -mstack=compiled:auto:auto:auto -mafrlcsj     -o .ca/build/PRO_Comparison/production/mcc_generated_files/mcc.p1 mcc_generated_files/mcc.c 
+"C:\Program Files\Microchip\xc8\v2.40\bin\xc8-cc.exe"  -mcpu=18F46K42 -c   -mdfp="C:/Program Files/Microchip/MPLABX/v6.05/packs/Microchip/PIC18F-K_DFP/1.7.134/xc8"  -fno-short-double -fno-short-float -memi=wordwrite -O0 -fasmfile -maddrqual=ignore -xassembler-with-cpp -mwarn=-3 -Wa,-a -DXPRJ_PRO_Comparison=PRO_Comparison  -msummary=-psect,-class,+mem,-hex,-file  -ginhx32 -Wl,--data-init -mno-keep-startup -mno-download -mdefault-config-bits   -std=c99 -gdwarf-3 -mstack=compiled:auto:auto:auto -mafrlcsj     -o .ca/build/PRO_Comparison/production/mcc_generated_files/pin_manager.p1 mcc_generated_files/pin_manager.c 
+"C:\Program Files\Microchip\xc8\v2.40\bin\xc8-cc.exe"  -mcpu=18F46K42 -c   -mdfp="C:/Program Files/Microchip/MPLABX/v6.05/packs/Microchip/PIC18F-K_DFP/1.7.134/xc8"  -fno-short-double -fno-short-float -memi=wordwrite -O0 -fasmfile -maddrqual=ignore -xassembler-with-cpp -mwarn=-3 -Wa,-a -DXPRJ_PRO_Comparison=PRO_Comparison  -msummary=-psect,-class,+mem,-hex,-file  -ginhx32 -Wl,--data-init -mno-keep-startup -mno-download -mdefault-config-bits   -std=c99 -gdwarf-3 -mstack=compiled:auto:auto:auto -mafrlcsj     -o .ca/build/PRO_Comparison/production/mcc_generated_files/tmr2.p1 mcc_generated_files/tmr2.c 
+"C:\Program Files\Microchip\xc8\v2.40\bin\xc8-cc.exe"  -mcpu=18F46K42 -c   -mdfp="C:/Program Files/Microchip/MPLABX/v6.05/packs/Microchip/PIC18F-K_DFP/1.7.134/xc8"  -fno-short-double -fno-short-float -memi=wordwrite -O0 -fasmfile -maddrqual=ignore -xassembler-with-cpp -mwarn=-3 -Wa,-a -DXPRJ_PRO_Comparison=PRO_Comparison  -msummary=-psect,-class,+mem,-hex,-file  -ginhx32 -Wl,--data-init -mno-keep-startup -mno-download -mdefault-config-bits   -std=c99 -gdwarf-3 -mstack=compiled:auto:auto:auto -mafrlcsj     -o .ca/build/PRO_Comparison/production/mcc_generated_files/spi1.p1 mcc_generated_files/spi1.c 
+"C:\Program Files\Microchip\xc8\v2.40\bin\xc8-cc.exe"  -mcpu=18F46K42 -c   -mdfp="C:/Program Files/Microchip/MPLABX/v6.05/packs/Microchip/PIC18F-K_DFP/1.7.134/xc8"  -fno-short-double -fno-short-float -memi=wordwrite -O0 -fasmfile -maddrqual=ignore -xassembler-with-cpp -mwarn=-3 -Wa,-a -DXPRJ_PRO_Comparison=PRO_Comparison  -msummary=-psect,-class,+mem,-hex,-file  -ginhx32 -Wl,--data-init -mno-keep-startup -mno-download -mdefault-config-bits   -std=c99 -gdwarf-3 -mstack=compiled:auto:auto:auto -mafrlcsj     -o .ca/build/PRO_Comparison/production/mcc_generated_files/adcc.p1 mcc_generated_files/adcc.c 
+"C:\Program Files\Microchip\xc8\v2.40\bin\xc8-cc.exe"  -mcpu=18F46K42 -c   -mdfp="C:/Program Files/Microchip/MPLABX/v6.05/packs/Microchip/PIC18F-K_DFP/1.7.134/xc8"  -fno-short-double -fno-short-float -memi=wordwrite -O0 -fasmfile -maddrqual=ignore -xassembler-with-cpp -mwarn=-3 -Wa,-a -DXPRJ_PRO_Comparison=PRO_Comparison  -msummary=-psect,-class,+mem,-hex,-file  -ginhx32 -Wl,--data-init -mno-keep-startup -mno-download -mdefault-config-bits   -std=c99 -gdwarf-3 -mstack=compiled:auto:auto:auto -mafrlcsj     -o .ca/build/PRO_Comparison/production/mcc_generated_files/fvr.p1 mcc_generated_files/fvr.c 
+"C:\Program Files\Microchip\xc8\v2.40\bin\xc8-cc.exe"  -mcpu=18F46K42 -c   -mdfp="C:/Program Files/Microchip/MPLABX/v6.05/packs/Microchip/PIC18F-K_DFP/1.7.134/xc8"  -fno-short-double -fno-short-float -memi=wordwrite -O0 -fasmfile -maddrqual=ignore -xassembler-with-cpp -mwarn=-3 -Wa,-a -DXPRJ_PRO_Comparison=PRO_Comparison  -msummary=-psect,-class,+mem,-hex,-file  -ginhx32 -Wl,--data-init -mno-keep-startup -mno-download -mdefault-config-bits   -std=c99 -gdwarf-3 -mstack=compiled:auto:auto:auto -mafrlcsj     -o .ca/build/PRO_Comparison/production/main.p1 main.c 
+"C:\Program Files\Microchip\xc8\v2.40\bin\xc8-cc.exe"  -mcpu=18F46K42 -c   -mdfp="C:/Program Files/Microchip/MPLABX/v6.05/packs/Microchip/PIC18F-K_DFP/1.7.134/xc8"  -fno-short-double -fno-short-float -memi=wordwrite -O0 -fasmfile -maddrqual=ignore -xassembler-with-cpp -mwarn=-3 -Wa,-a -DXPRJ_PRO_Comparison=PRO_Comparison  -msummary=-psect,-class,+mem,-hex,-file  -ginhx32 -Wl,--data-init -mno-keep-startup -mno-download -mdefault-config-bits   -std=c99 -gdwarf-3 -mstack=compiled:auto:auto:auto -mafrlcsj     -o .ca/build/PRO_Comparison/production/nuestrostimers.p1 nuestrostimers.c 
+"C:\Program Files\Microchip\xc8\v2.40\bin\xc8-cc.exe"  -mcpu=18F46K42 -c   -mdfp="C:/Program Files/Microchip/MPLABX/v6.05/packs/Microchip/PIC18F-K_DFP/1.7.134/xc8"  -fno-short-double -fno-short-float -memi=wordwrite -O0 -fasmfile -maddrqual=ignore -xassembler-with-cpp -mwarn=-3 -Wa,-a -DXPRJ_PRO_Comparison=PRO_Comparison  -msummary=-psect,-class,+mem,-hex,-file  -ginhx32 -Wl,--data-init -mno-keep-startup -mno-download -mdefault-config-bits   -std=c99 -gdwarf-3 -mstack=compiled:auto:auto:auto -mafrlcsj     -o .ca/build/PRO_Comparison/production/cola.p1 cola.c 
+"C:\Program Files\Microchip\xc8\v2.40\bin\xc8-cc.exe"  -mcpu=18F46K42 -c   -mdfp="C:/Program Files/Microchip/MPLABX/v6.05/packs/Microchip/PIC18F-K_DFP/1.7.134/xc8"  -fno-short-double -fno-short-float -memi=wordwrite -O0 -fasmfile -maddrqual=ignore -xassembler-with-cpp -mwarn=-3 -Wa,-a -DXPRJ_PRO_Comparison=PRO_Comparison  -msummary=-psect,-class,+mem,-hex,-file  -ginhx32 -Wl,--data-init -mno-keep-startup -mno-download -mdefault-config-bits   -std=c99 -gdwarf-3 -mstack=compiled:auto:auto:auto -mafrlcsj     -o .ca/build/PRO_Comparison/production/proceseusart.p1 proceseusart.c 
+"C:\Program Files\Microchip\xc8\v2.40\bin\xc8-cc.exe"  -mcpu=18F46K42 -c   -mdfp="C:/Program Files/Microchip/MPLABX/v6.05/packs/Microchip/PIC18F-K_DFP/1.7.134/xc8"  -fno-short-double -fno-short-float -memi=wordwrite -O0 -fasmfile -maddrqual=ignore -xassembler-with-cpp -mwarn=-3 -Wa,-a -DXPRJ_PRO_Comparison=PRO_Comparison  -msummary=-psect,-class,+mem,-hex,-file  -ginhx32 -Wl,--data-init -mno-keep-startup -mno-download -mdefault-config-bits   -std=c99 -gdwarf-3 -mstack=compiled:auto:auto:auto -mafrlcsj     -o .ca/build/PRO_Comparison/production/mcc_generated_files/interrupt_manager.p1 mcc_generated_files/interrupt_manager.c 
+"C:\Program Files\Microchip\xc8\v2.40\bin\xc8-cc.exe"  -mcpu=18F46K42 -c   -mdfp="C:/Program Files/Microchip/MPLABX/v6.05/packs/Microchip/PIC18F-K_DFP/1.7.134/xc8"  -fno-short-double -fno-short-float -memi=wordwrite -O0 -fasmfile -maddrqual=ignore -xassembler-with-cpp -mwarn=-3 -Wa,-a -DXPRJ_PRO_Comparison=PRO_Comparison  -msummary=-psect,-class,+mem,-hex,-file  -ginhx32 -Wl,--data-init -mno-keep-startup -mno-download -mdefault-config-bits   -std=c99 -gdwarf-3 -mstack=compiled:auto:auto:auto -mafrlcsj     -o .ca/build/PRO_Comparison/production/mcc_generated_files/uart1.p1 mcc_generated_files/uart1.c 
+"C:\Program Files\Microchip\xc8\v2.40\bin\xc8-cc.exe"  -mcpu=18F46K42 -c   -mdfp="C:/Program Files/Microchip/MPLABX/v6.05/packs/Microchip/PIC18F-K_DFP/1.7.134/xc8"  -fno-short-double -fno-short-float -memi=wordwrite -O0 -fasmfile -maddrqual=ignore -xassembler-with-cpp -mwarn=-3 -Wa,-a -DXPRJ_PRO_Comparison=PRO_Comparison  -msummary=-psect,-class,+mem,-hex,-file  -ginhx32 -Wl,--data-init -mno-keep-startup -mno-download -mdefault-config-bits   -std=c99 -gdwarf-3 -mstack=compiled:auto:auto:auto -mafrlcsj     -o .ca/build/PRO_Comparison/production/processpi.p1 processpi.c 
+main.c:121:31: warning: implicit conversion changes signedness: 'adc_result_t' (aka 'unsigned short') to 'int' [-Wsign-conversion]
+            primerresultado = ADCC_GetConversionResult();//20.6 microsegundos
+                            ~ ^~~~~~~~~~~~~~~~~~~~~~~~~~
+main.c:139:32: warning: implicit conversion changes signedness: 'adc_result_t' (aka 'unsigned short') to 'int' [-Wsign-conversion]
+            segundoresultado = ADCC_GetConversionResult();
+                             ~ ^~~~~~~~~~~~~~~~~~~~~~~~~~
+main.c:173:42: warning: implicit conversion changes signedness: 'int' to 'unsigned int' [-Wsign-conversion]
+            Tm_Inicie_periodico(&timer,1 + actualizar_recibido_Eusart(&disp));
+            ~~~~~~~~~~~~~~~~~~~        ~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+3 warnings generated.
+proceseusart.c:62:13: warning: implicit conversion loses integer precision: 'int' to 'unsigned char' [-Wconversion]
+    U1TXB = valor;
+          ~ ^~~~~
+1 warning generated.
+"C:\Program Files\Microchip\xc8\v2.40\bin\xc8-cc.exe"  -mcpu=18F46K42 -Wl,-Map=.ca/dist/PRO_Comparison/production/polling.X.production.map  -DXPRJ_PRO_Comparison=PRO_Comparison  -Wl,--defsym=__MPLAB_BUILD=1   -mdfp="C:/Program Files/Microchip/MPLABX/v6.05/packs/Microchip/PIC18F-K_DFP/1.7.134/xc8"  -fno-short-double -fno-short-float -memi=wordwrite -O0 -fasmfile -maddrqual=ignore -xassembler-with-cpp -mwarn=-3 -Wa,-a -msummary=-psect,-class,+mem,-hex,-file  -ginhx32 -Wl,--data-init -mno-keep-startup -mno-download -mdefault-config-bits -mafrlcsj -std=c99 -gdwarf-3 -mstack=compiled:auto:auto:auto      -Wl,--memorysummary,.ca/dist/PRO_Comparison/production/memoryfile.xml -o .ca/dist/PRO_Comparison/production/polling.X.production.elf  .ca/build/PRO_Comparison/production/mcc_generated_files/device_config.p1 .ca/build/PRO_Comparison/production/mcc_generated_files/mcc.p1 .ca/build/PRO_Comparison/production/mcc_generated_files/pin_manager.p1 .ca/build/PRO_Comparison/production/mcc_generated_files/tmr2.p1 .ca/build/PRO_Comparison/production/mcc_generated_files/spi1.p1 .ca/build/PRO_Comparison/production/mcc_generated_files/adcc.p1 .ca/build/PRO_Comparison/production/mcc_generated_files/fvr.p1 .ca/build/PRO_Comparison/production/mcc_generated_files/uart1.p1 .ca/build/PRO_Comparison/production/mcc_generated_files/interrupt_manager.p1 .ca/build/PRO_Comparison/production/main.p1 .ca/build/PRO_Comparison/production/nuestrostimers.p1 .ca/build/PRO_Comparison/production/cola.p1 .ca/build/PRO_Comparison/production/processpi.p1 .ca/build/PRO_Comparison/production/proceseusart.p1     
+mcc_generated_files/pin_manager.c:145:: warning: (520) function "_PIN_MANAGER_IOC" is never called
+mcc_generated_files/tmr2.c:88:: warning: (520) function "_TMR2_ModeSet" is never called
+mcc_generated_files/tmr2.c:94:: warning: (520) function "_TMR2_ExtResetSourceSet" is never called
+mcc_generated_files/tmr2.c:100:: warning: (520) function "_TMR2_Start" is never called
+mcc_generated_files/tmr2.c:106:: warning: (520) function "_TMR2_StartTimer" is never called
+mcc_generated_files/tmr2.c:111:: warning: (520) function "_TMR2_Stop" is never called
+mcc_generated_files/tmr2.c:117:: warning: (520) function "_TMR2_StopTimer" is never called
+mcc_generated_files/tmr2.c:122:: warning: (520) function "_TMR2_Counter8BitGet" is never called
+mcc_generated_files/tmr2.c:131:: warning: (520) function "_TMR2_ReadTimer" is never called
+mcc_generated_files/tmr2.c:136:: warning: (520) function "_TMR2_Counter8BitSet" is never called
+mcc_generated_files/tmr2.c:142:: warning: (520) function "_TMR2_WriteTimer" is never called
+mcc_generated_files/tmr2.c:147:: warning: (520) function "_TMR2_Period8BitSet" is never called
+mcc_generated_files/tmr2.c:152:: warning: (520) function "_TMR2_LoadPeriodRegister" is never called
+mcc_generated_files/spi1.c:79:: warning: (520) function "_SPI1_Open" is never called
+mcc_generated_files/spi1.c:94:: warning: (520) function "_SPI1_Close" is never called
+mcc_generated_files/spi1.c:99:: warning: (520) function "_SPI1_ExchangeByte" is never called
+mcc_generated_files/spi1.c:107:: warning: (520) function "_SPI1_ExchangeBlock" is never called
+mcc_generated_files/spi1.c:120:: warning: (520) function "_SPI1_WriteBlock" is never called
+mcc_generated_files/spi1.c:129:: warning: (520) function "_SPI1_ReadBlock" is never called
+mcc_generated_files/spi1.c:138:: warning: (520) function "_SPI1_WriteByte" is never called
+mcc_generated_files/spi1.c:143:: warning: (520) function "_SPI1_ReadByte" is never called
+mcc_generated_files/adcc.c:137:: warning: (520) function "_ADCC_GetSingleConversion" is never called
+mcc_generated_files/adcc.c:162:: warning: (520) function "_ADCC_StopConversion" is never called
+mcc_generated_files/adcc.c:168:: warning: (520) function "_ADCC_SetStopOnInterrupt" is never called
+mcc_generated_files/adcc.c:180:: warning: (520) function "_ADCC_LoadAcquisitionRegister" is never called
+mcc_generated_files/adcc.c:187:: warning: (520) function "_ADCC_SetPrechargeTime" is never called
+mcc_generated_files/adcc.c:194:: warning: (520) function "_ADCC_SetRepeatCount" is never called
+mcc_generated_files/adcc.c:200:: warning: (520) function "_ADCC_GetCurrentCountofConversions" is never called
+mcc_generated_files/adcc.c:206:: warning: (520) function "_ADCC_ClearAccumulator" is never called
+mcc_generated_files/adcc.c:212:: warning: (520) function "_ADCC_GetAccumulatorValue" is never called
+mcc_generated_files/adcc.c:218:: warning: (520) function "_ADCC_HasAccumulatorOverflowed" is never called
+mcc_generated_files/adcc.c:224:: warning: (520) function "_ADCC_GetFilterValue" is never called
+mcc_generated_files/adcc.c:230:: warning: (520) function "_ADCC_GetPreviousResult" is never called
+mcc_generated_files/adcc.c:236:: warning: (520) function "_ADCC_DefineSetPoint" is never called
+mcc_generated_files/adcc.c:243:: warning: (520) function "_ADCC_SetUpperThreshold" is never called
+mcc_generated_files/adcc.c:250:: warning: (520) function "_ADCC_SetLowerThreshold" is never called
+mcc_generated_files/adcc.c:257:: warning: (520) function "_ADCC_GetErrorCalculation" is never called
+mcc_generated_files/adcc.c:263:: warning: (520) function "_ADCC_EnableDoubleSampling" is never called
+mcc_generated_files/adcc.c:269:: warning: (520) function "_ADCC_EnableContinuousConversion" is never called
+mcc_generated_files/adcc.c:275:: warning: (520) function "_ADCC_DisableContinuousConversion" is never called
+mcc_generated_files/adcc.c:281:: warning: (520) function "_ADCC_HasErrorCrossedUpperThreshold" is never called
+mcc_generated_files/adcc.c:287:: warning: (520) function "_ADCC_HasErrorCrossedLowerThreshold" is never called
+mcc_generated_files/adcc.c:293:: warning: (520) function "_ADCC_GetConversionStageStatus" is never called
+mcc_generated_files/fvr.c:64:: warning: (520) function "_FVR_IsOutputReady" is never called
+mcc_generated_files/uart1.c:170:: warning: (520) function "_UART1_is_tx_done" is never called
+mcc_generated_files/uart1.c:175:: warning: (520) function "_UART1_get_last_status" is never called
+mcc_generated_files/uart1.c:179:: warning: (520) function "_UART1_Read" is never called
+mcc_generated_files/uart1.c:201:: warning: (520) function "_UART1_Write" is never called
+nuestrostimers.c:81:: warning: (520) function "_Tm_Termine_periodico" is never called
+nuestrostimers.c:89:: warning: (520) function "_Tm_Hubo_timeout" is never called
+nuestrostimers.c:113:: warning: (520) function "_Tm_Inicie_timeout" is never called
+nuestrostimers.c:127:: warning: (520) function "_Tm_Baje_timeout" is never called
+cola.c:70:: warning: (520) function "_tam_cola" is never called
+processpi.c:19:: warning: (520) function "_seleccionar_canal" is never called
+processpi.c:22:: warning: (520) function "_seleccionar_ganancia" is never called
+processpi.c:25:: warning: (520) function "_seleccionar_impedancia" is never called
+processpi.c:33:: warning: (520) function "_inicie_envio_SPI" is never called
+processpi.c:36:: warning: (520) function "_envie_dato" is never called
+processpi.c:71:: warning: (520) function "_sigo_enviando_SPI" is never called
+proceseusart.c:55:: warning: (520) function "_iniciar_Eusart" is never called
+proceseusart.c:58:: warning: (520) function "_parar_Eusart" is never called
+proceseusart.c:65:: warning: (520) function "_recibir_Eusart" is never called
+proceseusart.c:76:: warning: (520) function "_continuar_envio_Eusart" is never called
+mcc_generated_files/spi1.c:115:: warning: (1498) pointer (SPI1_ExchangeBlock@data) in expression may have no targets
+mcc_generated_files/spi1.c:134:: warning: (1498) pointer (SPI1_ReadBlock@data) in expression may have no targets
+nuestrostimers.c:85:: warning: (1498) pointer (Tm_Termine_periodico@ctp) in expression may have no targets
+nuestrostimers.c:85:: warning: (759) expression generates no code
+nuestrostimers.c:97:: warning: (1498) pointer (Tm_Hubo_timeout@ctp) in expression may have no targets
+nuestrostimers.c:121:: warning: (1498) pointer (Tm_Inicie_timeout@ctp) in expression may have no targets
+nuestrostimers.c:121:: warning: (759) expression generates no code
+nuestrostimers.c:123:: warning: (1498) pointer (Tm_Inicie_timeout@ctp) in expression may have no targets
+nuestrostimers.c:123:: warning: (759) expression generates no code
+nuestrostimers.c:131:: warning: (1498) pointer (Tm_Baje_timeout@ctp) in expression may have no targets
+nuestrostimers.c:131:: warning: (759) expression generates no code
+processpi.c:20:: warning: (1498) pointer (seleccionar_canal@spi) in expression may have no targets
+processpi.c:20:: warning: (759) expression generates no code
+processpi.c:23:: warning: (1498) pointer (seleccionar_ganancia@spi) in expression may have no targets
+processpi.c:23:: warning: (759) expression generates no code
+processpi.c:26:: warning: (1498) pointer (seleccionar_impedancia@spi) in expression may have no targets
+processpi.c:26:: warning: (759) expression generates no code
+processpi.c:34:: warning: (1498) pointer (inicie_envio_SPI@spi) in expression may have no targets
+processpi.c:34:: warning: (759) expression generates no code
+processpi.c:41:: warning: (1498) pointer (envie_dato@spi) in expression may have no targets
+processpi.c:42:: warning: (1498) pointer (envie_dato@spi) in expression may have no targets
+processpi.c:43:: warning: (1498) pointer (envie_dato@spi) in expression may have no targets
+processpi.c:47:: warning: (1498) pointer (envie_dato@spi) in expression may have no targets
+processpi.c:48:: warning: (1498) pointer (envie_dato@spi) in expression may have no targets
+processpi.c:52:: warning: (1498) pointer (envie_dato@spi) in expression may have no targets
+processpi.c:53:: warning: (1498) pointer (envie_dato@spi) in expression may have no targets
+processpi.c:57:: warning: (1498) pointer (envie_dato@spi) in expression may have no targets
+processpi.c:58:: warning: (1498) pointer (envie_dato@spi) in expression may have no targets
+processpi.c:62:: warning: (1498) pointer (envie_dato@spi) in expression may have no targets
+processpi.c:65:: warning: (1498) pointer (envie_dato@spi) in expression may have no targets
+processpi.c:66:: warning: (1498) pointer (envie_dato@spi) in expression may have no targets
+proceseusart.c:56:: warning: (1498) pointer (iniciar_Eusart@disp) in expression may have no targets
+proceseusart.c:56:: warning: (759) expression generates no code
+proceseusart.c:59:: warning: (1498) pointer (parar_Eusart@disp) in expression may have no targets
+proceseusart.c:59:: warning: (759) expression generates no code
+proceseusart.c:67:: warning: (1498) pointer (recibir_Eusart@disp) in expression may have no targets
+Non line specific message::: warning: (2019) low-priority interrupt vector in table @ 0x8 is unassigned, will be programmed with a RESET instruction 
+
+Memory Summary:
+    Program space        used   ECAh (  3786) of 10000h bytes   (  5.8%)
+    Data space           used    7Dh (   125) of  1000h bytes   (  3.1%)
+    Configuration bits   used     5h (     5) of     5h words   (100.0%)
+    EEPROM space         used     0h (     0) of   400h bytes   (  0.0%)
+    ID Location space    used    10h (    16) of    10h bytes   (100.0%)
+
+
+You have compiled using a FREE license.
+With a PRO license, memory use would be:
+    Program space        used   956h (  2390) of 10000h bytes   (  3.6%)
+    Data space           used    7Ch (   124) of  1000h bytes   (  3.0%)
+
+
+make[2]: Leaving directory 'D:/Camilo/Registro clases/7 semestre materias/Proyecto 2/proyectos/practica 2/codigosv2/polling.X'
+make[1]: Leaving directory 'D:/Camilo/Registro clases/7 semestre materias/Proyecto 2/proyectos/practica 2/codigosv2/polling.X'
+[32mBUILD SUCCESSFUL (total time: 10s)[0m
